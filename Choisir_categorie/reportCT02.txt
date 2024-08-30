@@ -1,0 +1,80 @@
+[2024-07-10 16:14:03] Browser session started.
+[2024-07-10 16:14:03] Browser window maximized.
+[2024-07-10 16:14:05] Navigated to Jumia website.
+[2024-07-10 16:14:08] Closed pop-up window.
+[2024-07-10 16:14:13] Entered 'Informatique' category in the search input field.
+[2024-07-10 16:14:13] Search input field contains the (Informatique) keyword.
+[2024-07-10 16:14:17] Clicked the search button.
+[2024-07-10 16:14:27] Failed to navigate to search results page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF664008132+13538]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF663F91DE9+595465]
+	(No symbol) [0x00007FF663DAE6CF]
+	(No symbol) [0x00007FF663DF2960]
+	(No symbol) [0x00007FF663DF2A1F]
+	(No symbol) [0x00007FF663E2D627]
+	(No symbol) [0x00007FF663E1203F]
+	(No symbol) [0x00007FF663DE8147]
+	(No symbol) [0x00007FF663E2B1EE]
+	(No symbol) [0x00007FF663E11C63]
+	(No symbol) [0x00007FF663DE766E]
+	(No symbol) [0x00007FF663DE683C]
+	(No symbol) [0x00007FF663DE7221]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6641C96D4+1099860]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF663F0D8FC+53532]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF663F00E25+1605]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6641C8665+1095653]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF663F9C961+27777]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF663F96CE4+4100]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF663F96E1B+4411]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF663F8CFA0+575424]
+	BaseThreadInitThunk [0x00007FFEB9C87374+20]
+	RtlUserThreadStart [0x00007FFEBA31CC91+33]
+
+[2024-07-10 16:14:37] Waiting for 10 seconds before closing the browser.
+[2024-07-10 16:14:39] Browser session ended.
+[2024-07-10 16:16:50] Browser session started.
+[2024-07-10 16:16:50] Browser window maximized.
+[2024-07-10 16:16:52] Navigated to Jumia website.
+[2024-07-10 16:16:55] Closed pop-up window.
+[2024-07-10 16:16:57] Entered 'Informatique' category in the search input field.
+[2024-07-10 16:16:57] Search input field contains the (Informatique) keyword.
+[2024-07-10 16:17:01] Clicked the search button.
+[2024-07-10 16:17:11] Failed to navigate to search results page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF664008132+13538]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF663F91DE9+595465]
+	(No symbol) [0x00007FF663DAE6CF]
+	(No symbol) [0x00007FF663DF2960]
+	(No symbol) [0x00007FF663DF2A1F]
+	(No symbol) [0x00007FF663E2D627]
+	(No symbol) [0x00007FF663E1203F]
+	(No symbol) [0x00007FF663DE8147]
+	(No symbol) [0x00007FF663E2B1EE]
+	(No symbol) [0x00007FF663E11C63]
+	(No symbol) [0x00007FF663DE766E]
+	(No symbol) [0x00007FF663DE683C]
+	(No symbol) [0x00007FF663DE7221]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6641C96D4+1099860]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF663F0D8FC+53532]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF663F00E25+1605]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6641C8665+1095653]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF663F9C961+27777]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF663F96CE4+4100]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF663F96E1B+4411]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF663F8CFA0+575424]
+	BaseThreadInitThunk [0x00007FFEB9C87374+20]
+	RtlUserThreadStart [0x00007FFEBA31CC91+33]
+
+[2024-07-10 16:17:21] Waiting for 10 seconds before closing the browser.
+[2024-07-10 16:17:23] Browser session ended.
+[2024-07-10 16:18:49] Browser session started.
+[2024-07-10 16:18:49] Browser window maximized.
+[2024-07-10 16:18:51] Navigated to Jumia website.
+[2024-07-10 16:18:54] Closed pop-up window.
+[2024-07-10 16:18:58] Entered 'Informatique' category in the search input field.
+[2024-07-10 16:18:58] Search input field contains the (Informatique) keyword.
+[2024-07-10 16:19:01] Clicked the search button.
+[2024-07-10 16:19:02] Successfully navigated to search results page.
+[2024-07-10 16:19:12] Waiting for 10 seconds before closing the browser.
+[2024-07-10 16:19:15] Browser session ended.

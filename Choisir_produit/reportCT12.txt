@@ -1,0 +1,228 @@
+[2024-07-18 10:10:43] Browser session started.
+[2024-07-18 10:10:43] Browser window maximized.
+[2024-07-18 10:10:46] Navigated to Jumia homepage.
+[2024-07-18 10:10:50] Closed pop-up window.
+[2024-07-18 10:10:53] Mouse hover on 'Informatique' category.
+[2024-07-18 10:10:57] Click on 'Pc Gamer et composants' products
+[2024-07-18 10:10:57] Successfully navigated to 'Pc Gamer et composants' sub-category page.
+[2024-07-18 10:10:57] Scroll down the webpage
+[2024-07-18 10:10:57] Waiting for the dropdown to appear...
+[2024-07-18 10:11:01] An error occurred: Message: element click intercepted: Element is not clickable at point (1180, -17)
+  (Session info: MicrosoftEdge=126.0.2592.102)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7AABA8132+13538]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7AAB31DE9+595465]
+	(No symbol) [0x00007FF7AA94E6CF]
+	(No symbol) [0x00007FF7AA998E9E]
+	(No symbol) [0x00007FF7AA997101]
+	(No symbol) [0x00007FF7AA994E10]
+	(No symbol) [0x00007FF7AA993E26]
+	(No symbol) [0x00007FF7AA988711]
+	(No symbol) [0x00007FF7AA9B1FFA]
+	(No symbol) [0x00007FF7AA988147]
+	(No symbol) [0x00007FF7AA98800D]
+	(No symbol) [0x00007FF7AA9B22E0]
+	(No symbol) [0x00007FF7AA988147]
+	(No symbol) [0x00007FF7AA9CB1EE]
+	(No symbol) [0x00007FF7AA9B1C63]
+	(No symbol) [0x00007FF7AA98766E]
+	(No symbol) [0x00007FF7AA98683C]
+	(No symbol) [0x00007FF7AA987221]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7AAD696D4+1099860]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7AAAAD8FC+53532]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7AAAA0E25+1605]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7AAD68665+1095653]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7AAB3C961+27777]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7AAB36CE4+4100]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7AAB36E1B+4411]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7AAB2CFA0+575424]
+	BaseThreadInitThunk [0x00007FFBC8037374+20]
+	RtlUserThreadStart [0x00007FFBC817CC91+33]
+
+[2024-07-18 10:13:14] Browser session started.
+[2024-07-18 10:13:14] Browser window maximized.
+[2024-07-18 10:13:16] Navigated to Jumia homepage.
+[2024-07-18 10:13:19] Closed pop-up window.
+[2024-07-18 10:13:24] Mouse hover on 'Informatique' category.
+[2024-07-18 10:13:27] Click on 'Pc Gamer et composants' products
+[2024-07-18 10:13:27] Successfully navigated to 'Pc Gamer et composants' sub-category page.
+[2024-07-18 10:13:27] Scroll down the webpage
+[2024-07-18 10:13:27] Waiting for the dropdown to appear...
+[2024-07-18 10:13:31] An error occurred: Message: element click intercepted: Element is not clickable at point (1180, -17)
+  (Session info: MicrosoftEdge=126.0.2592.102)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7AABA8132+13538]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7AAB31DE9+595465]
+	(No symbol) [0x00007FF7AA94E6CF]
+	(No symbol) [0x00007FF7AA998E9E]
+	(No symbol) [0x00007FF7AA997101]
+	(No symbol) [0x00007FF7AA994E10]
+	(No symbol) [0x00007FF7AA993E26]
+	(No symbol) [0x00007FF7AA988711]
+	(No symbol) [0x00007FF7AA9B1FFA]
+	(No symbol) [0x00007FF7AA988147]
+	(No symbol) [0x00007FF7AA98800D]
+	(No symbol) [0x00007FF7AA9B22E0]
+	(No symbol) [0x00007FF7AA988147]
+	(No symbol) [0x00007FF7AA9CB1EE]
+	(No symbol) [0x00007FF7AA9B1C63]
+	(No symbol) [0x00007FF7AA98766E]
+	(No symbol) [0x00007FF7AA98683C]
+	(No symbol) [0x00007FF7AA987221]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7AAD696D4+1099860]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7AAAAD8FC+53532]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7AAAA0E25+1605]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7AAD68665+1095653]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7AAB3C961+27777]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7AAB36CE4+4100]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7AAB36E1B+4411]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7AAB2CFA0+575424]
+	BaseThreadInitThunk [0x00007FFBC8037374+20]
+	RtlUserThreadStart [0x00007FFBC817CC91+33]
+
+[2024-07-18 10:14:01] Waiting for 10 seconds before closing the browser.
+[2024-07-18 10:14:03] Browser session ended.
+[2024-07-18 10:14:30] Browser session started.
+[2024-07-18 10:14:30] Browser window maximized.
+[2024-07-18 10:14:31] Navigated to Jumia homepage.
+[2024-07-18 10:14:34] Closed pop-up window.
+[2024-07-18 10:14:39] Mouse hover on 'Informatique' category.
+[2024-07-18 10:14:44] Click on 'Pc Gamer et composants' products
+[2024-07-18 10:14:44] Successfully navigated to 'Pc Gamer et composants' sub-category page.
+[2024-07-18 10:14:44] Waiting for the dropdown to appear...
+[2024-07-18 10:14:49] An error occurred: Message: element click intercepted: Element is not clickable at point (1180, 746)
+  (Session info: MicrosoftEdge=126.0.2592.102)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7AABA8132+13538]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7AAB31DE9+595465]
+	(No symbol) [0x00007FF7AA94E6CF]
+	(No symbol) [0x00007FF7AA998E9E]
+	(No symbol) [0x00007FF7AA997101]
+	(No symbol) [0x00007FF7AA994E10]
+	(No symbol) [0x00007FF7AA993E26]
+	(No symbol) [0x00007FF7AA988711]
+	(No symbol) [0x00007FF7AA9B1FFA]
+	(No symbol) [0x00007FF7AA988147]
+	(No symbol) [0x00007FF7AA98800D]
+	(No symbol) [0x00007FF7AA9B22E0]
+	(No symbol) [0x00007FF7AA988147]
+	(No symbol) [0x00007FF7AA9CB1EE]
+	(No symbol) [0x00007FF7AA9B1C63]
+	(No symbol) [0x00007FF7AA98766E]
+	(No symbol) [0x00007FF7AA98683C]
+	(No symbol) [0x00007FF7AA987221]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7AAD696D4+1099860]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7AAAAD8FC+53532]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7AAAA0E25+1605]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7AAD68665+1095653]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7AAB3C961+27777]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7AAB36CE4+4100]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7AAB36E1B+4411]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7AAB2CFA0+575424]
+	BaseThreadInitThunk [0x00007FFBC8037374+20]
+	RtlUserThreadStart [0x00007FFBC817CC91+33]
+
+[2024-07-18 10:16:48] Browser session started.
+[2024-07-18 10:16:48] Browser window maximized.
+[2024-07-18 10:16:50] Navigated to Jumia homepage.
+[2024-07-18 10:16:53] Closed pop-up window.
+[2024-07-18 10:16:56] Mouse hover on 'Informatique' category.
+[2024-07-18 10:17:00] Click on 'Pc Gamer et composants' products
+[2024-07-18 10:17:00] Successfully navigated to 'Pc Gamer et composants' sub-category page.
+[2024-07-18 10:17:00] Waiting for the dropdown to appear...
+[2024-07-18 10:17:03] Clicking the parent div to open the dropdown to execute the sorting
+[2024-07-18 10:17:09] An error occurred: Message: element click intercepted: Element is not clickable at point (1180, 844)
+  (Session info: MicrosoftEdge=126.0.2592.102)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7AABA8132+13538]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7AAB31DE9+595465]
+	(No symbol) [0x00007FF7AA94E6CF]
+	(No symbol) [0x00007FF7AA998E9E]
+	(No symbol) [0x00007FF7AA997101]
+	(No symbol) [0x00007FF7AA994E10]
+	(No symbol) [0x00007FF7AA993E26]
+	(No symbol) [0x00007FF7AA988711]
+	(No symbol) [0x00007FF7AA9B1FFA]
+	(No symbol) [0x00007FF7AA988147]
+	(No symbol) [0x00007FF7AA98800D]
+	(No symbol) [0x00007FF7AA9B22E0]
+	(No symbol) [0x00007FF7AA988147]
+	(No symbol) [0x00007FF7AA9CB1EE]
+	(No symbol) [0x00007FF7AA9B1C63]
+	(No symbol) [0x00007FF7AA98766E]
+	(No symbol) [0x00007FF7AA98683C]
+	(No symbol) [0x00007FF7AA987221]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7AAD696D4+1099860]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7AAAAD8FC+53532]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7AAAA0E25+1605]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7AAD68665+1095653]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7AAB3C961+27777]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7AAB36CE4+4100]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7AAB36E1B+4411]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7AAB2CFA0+575424]
+	BaseThreadInitThunk [0x00007FFBC8037374+20]
+	RtlUserThreadStart [0x00007FFBC817CC91+33]
+
+[2024-07-18 10:17:34] Browser session started.
+[2024-07-18 10:17:34] Browser window maximized.
+[2024-07-18 10:17:35] Navigated to Jumia homepage.
+[2024-07-18 10:17:39] Closed pop-up window.
+[2024-07-18 10:17:42] Mouse hover on 'Informatique' category.
+[2024-07-18 10:17:47] Click on 'Pc Gamer et composants' products
+[2024-07-18 10:17:47] Successfully navigated to 'Pc Gamer et composants' sub-category page.
+[2024-07-18 10:17:47] Waiting for the dropdown to appear...
+[2024-07-18 10:17:52] Clicking the parent div to open the dropdown to execute the sorting
+[2024-07-18 10:17:57] Click on 'Les mieux notés' sorting item
+[2024-07-18 10:17:57] Scroll down the webpage
+[2024-07-18 10:18:01] Click on 'DELL Écran 27 pouces Full HD, IPS, 75Hz LED FreeSync Gaming Monitor (S2721HN)' product
+[2024-07-18 10:18:01] Successfully navigated to 'DELL Écran 27 pouces Full HD, IPS, 75Hz LED FreeSync Gaming Monitor (S2721HN)' product page.
+[2024-07-18 10:18:31] Waiting for 10 seconds before closing the browser.
+[2024-07-18 10:18:33] Browser session ended.
+[2024-07-18 10:20:02] Browser session started.
+[2024-07-18 10:20:02] Browser window maximized.
+[2024-07-18 10:20:04] Navigated to Jumia homepage.
+[2024-07-18 10:20:07] Closed pop-up window.
+[2024-07-18 10:20:10] Mouse hover on 'Informatique' category.
+[2024-07-18 10:20:16] Click on 'Pc Gamer et composants' products
+[2024-07-18 10:20:16] Successfully navigated to 'Pc Gamer et composants' sub-category page.
+[2024-07-18 10:20:17] Scroll down to the dropdown menu
+[2024-07-18 10:20:17] Waiting for the dropdown to appear...
+[2024-07-18 10:20:19] Clicking the parent div to open the dropdown to execute the sorting
+[2024-07-18 10:20:23] Click on 'Les mieux notés' sorting item
+[2024-07-18 10:20:23] Scroll down the webpage
+[2024-07-18 10:20:28] Click on 'DELL Écran 27 pouces Full HD, IPS, 75Hz LED FreeSync Gaming Monitor (S2721HN)' product
+[2024-07-18 10:20:28] Successfully navigated to 'DELL Écran 27 pouces Full HD, IPS, 75Hz LED FreeSync Gaming Monitor (S2721HN)' product page.
+[2024-07-18 10:20:58] Waiting for 10 seconds before closing the browser.
+[2024-07-18 10:21:01] Browser session ended.
+[2024-07-18 10:24:20] Browser session started.
+[2024-07-18 10:24:20] Browser window maximized.
+[2024-07-18 10:24:22] Navigated to Jumia homepage.
+[2024-07-18 10:24:24] Closed pop-up window.
+[2024-07-18 10:24:28] Mouse hover on 'Informatique' category.
+[2024-07-18 10:24:33] Click on 'Pc Gamer et composants' products
+[2024-07-18 10:24:33] Successfully navigated to 'Pc Gamer et composants' sub-category page.
+[2024-07-18 10:24:33] Scroll down to the dropdown menu
+[2024-07-18 10:24:33] Waiting for the dropdown to appear...
+[2024-07-18 10:24:35] Clicking the parent div to open the dropdown to execute the sorting
+[2024-07-18 10:24:39] Click on 'Les mieux notés' sorting item
+[2024-07-18 10:24:40] Scroll down the webpage
+[2024-07-18 10:24:45] Click on 'DELL Écran 27 pouces Full HD, IPS, 75Hz LED FreeSync Gaming Monitor (S2721HN)' product
+[2024-07-18 10:24:45] Successfully navigated to 'DELL Écran 27 pouces Full HD, IPS, 75Hz LED FreeSync Gaming Monitor (S2721HN)' product page.
+[2024-07-18 10:25:15] Waiting for 10 seconds before closing the browser.
+[2024-07-18 10:25:17] Browser session ended.
+[2024-07-18 10:26:23] Browser session started.
+[2024-07-18 10:26:23] Browser window maximized.
+[2024-07-18 10:26:25] Navigated to Jumia homepage.
+[2024-07-18 10:26:29] Closed pop-up window.
+[2024-07-18 10:26:33] Mouse hover on 'Informatique' category.
+[2024-07-18 10:26:39] Click on 'Pc Gamer et composants' products
+[2024-07-18 10:26:39] Successfully navigated to 'Pc Gamer et composants' sub-category page.
+[2024-07-18 10:26:39] Scroll down to the dropdown menu
+[2024-07-18 10:26:39] Waiting for the dropdown to appear...
+[2024-07-18 10:26:42] Clicking the parent div to open the dropdown to execute the sorting
+[2024-07-18 10:26:47] Click on 'Les mieux notés' sorting item
+[2024-07-18 10:26:47] Scroll down the webpage
+[2024-07-18 10:26:52] Click on 'DELL Écran 27 pouces Full HD, IPS, 75Hz LED FreeSync Gaming Monitor (S2721HN)' product
+[2024-07-18 10:26:52] Successfully navigated to 'DELL Écran 27 pouces Full HD, IPS, 75Hz LED FreeSync Gaming Monitor (S2721HN)' product page.
+[2024-07-18 10:27:22] Waiting for 10 seconds before closing the browser.
+[2024-07-18 10:27:24] Browser session ended.

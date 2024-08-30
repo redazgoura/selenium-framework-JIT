@@ -1,0 +1,371 @@
+[2024-07-16 15:13:26] Browser session started.
+[2024-07-16 15:13:26] Browser window maximized.
+[2024-07-16 15:13:28] Navigated to Jumia homepage.
+[2024-07-16 15:13:31] Closed pop-up window.
+[2024-07-16 15:13:34] Clicked on 'Informatique' category.
+[2024-07-16 15:13:44] Waiting for 10 seconds before closing the browser.
+[2024-07-16 15:13:46] Browser session ended.
+[2024-07-16 15:20:23] Browser session started.
+[2024-07-16 15:20:23] Browser window maximized.
+[2024-07-16 15:20:25] Navigated to Jumia homepage.
+[2024-07-16 15:20:29] Closed pop-up window.
+[2024-07-16 15:20:31] Clicked on 'Informatique' category.
+[2024-07-16 15:20:52] An error occurred: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7302F8132+13538]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF730281DE9+595465]
+	(No symbol) [0x00007FF73009E6CF]
+	(No symbol) [0x00007FF7300E2960]
+	(No symbol) [0x00007FF7300E2A1F]
+	(No symbol) [0x00007FF73011D627]
+	(No symbol) [0x00007FF73010203F]
+	(No symbol) [0x00007FF7300D8147]
+	(No symbol) [0x00007FF73011B1EE]
+	(No symbol) [0x00007FF730101C63]
+	(No symbol) [0x00007FF7300D766E]
+	(No symbol) [0x00007FF7300D683C]
+	(No symbol) [0x00007FF7300D7221]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7304B96D4+1099860]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7301FD8FC+53532]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7301F0E25+1605]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7304B8665+1095653]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF73028C961+27777]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF730286CE4+4100]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF730286E1B+4411]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF73027CFA0+575424]
+	BaseThreadInitThunk [0x00007FFBC8037374+20]
+	RtlUserThreadStart [0x00007FFBC817CC91+33]
+
+[2024-07-16 15:21:02] Waiting for 10 seconds before closing the browser.
+[2024-07-16 15:21:04] Browser session ended.
+[2024-07-16 15:24:08] Browser session started.
+[2024-07-16 15:24:08] Browser window maximized.
+[2024-07-16 15:24:09] Navigated to Jumia homepage.
+[2024-07-16 15:24:12] Closed pop-up window.
+[2024-07-16 15:24:16] Mouse hover on 'Informatique' category.
+[2024-07-16 15:24:26] Waiting for 10 seconds before closing the browser.
+[2024-07-16 15:24:28] Browser session ended.
+[2024-07-16 15:25:39] Browser session started.
+[2024-07-16 15:25:39] Browser window maximized.
+[2024-07-16 15:25:40] Navigated to Jumia homepage.
+[2024-07-16 15:25:44] Closed pop-up window.
+[2024-07-16 15:25:47] Mouse hover on 'Informatique' category.
+[2024-07-16 15:25:57] Waiting for 10 seconds before closing the browser.
+[2024-07-16 15:26:00] Browser session ended.
+[2024-07-16 15:26:09] Browser session started.
+[2024-07-16 15:26:09] Browser window maximized.
+[2024-07-16 15:26:11] Navigated to Jumia homepage.
+[2024-07-16 15:26:13] Closed pop-up window.
+[2024-07-16 15:26:18] Mouse hover on 'Informatique' category.
+[2024-07-16 15:26:28] Waiting for 10 seconds before closing the browser.
+[2024-07-16 15:26:30] Browser session ended.
+[2024-07-16 15:27:05] Browser session started.
+[2024-07-16 15:27:05] Browser window maximized.
+[2024-07-16 15:27:07] Navigated to Jumia homepage.
+[2024-07-16 15:27:10] Closed pop-up window.
+[2024-07-16 15:27:12] Mouse hover on 'Informatique' category.
+[2024-07-16 15:27:22] Waiting for 10 seconds before closing the browser.
+[2024-07-16 15:27:25] Browser session ended.
+[2024-07-16 15:27:57] Browser session started.
+[2024-07-16 15:27:57] Browser window maximized.
+[2024-07-16 15:27:59] Navigated to Jumia homepage.
+[2024-07-16 15:28:02] Closed pop-up window.
+[2024-07-16 15:28:04] Mouse hover on 'Informatique' category.
+[2024-07-16 15:28:15] Waiting for 10 seconds before closing the browser.
+[2024-07-16 15:28:18] Browser session ended.
+[2024-07-16 15:32:02] Browser session started.
+[2024-07-16 15:32:02] Browser window maximized.
+[2024-07-16 15:32:04] Navigated to Jumia homepage.
+[2024-07-16 15:32:08] Closed pop-up window.
+[2024-07-16 15:32:13] Mouse hover on 'Informatique' category.
+[2024-07-16 15:32:19] Click on 'Pc Gamer et composants'
+[2024-07-16 15:32:19] Successfully navigated to 'Pc Gamer et composants' products page.
+[2024-07-16 15:32:49] Waiting for 10 seconds before closing the browser.
+[2024-07-16 15:32:51] Browser session ended.
+[2024-07-16 15:56:25] Browser session started.
+[2024-07-16 15:56:25] Browser window maximized.
+[2024-07-16 15:56:27] Navigated to Jumia homepage.
+[2024-07-16 15:56:31] Closed pop-up window.
+[2024-07-16 15:56:36] Mouse hover on 'Informatique' category.
+[2024-07-16 15:56:42] Click on 'Pc Gamer et composants' products
+[2024-07-16 15:56:42] Successfully navigated to 'Pc Gamer et composants' products page.
+[2024-07-16 15:57:03] An error occurred: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7302F8132+13538]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF730281DE9+595465]
+	(No symbol) [0x00007FF73009E6CF]
+	(No symbol) [0x00007FF7300E2960]
+	(No symbol) [0x00007FF7300E2A1F]
+	(No symbol) [0x00007FF73011D627]
+	(No symbol) [0x00007FF73010203F]
+	(No symbol) [0x00007FF7300D8147]
+	(No symbol) [0x00007FF73011B1EE]
+	(No symbol) [0x00007FF730101C63]
+	(No symbol) [0x00007FF7300D766E]
+	(No symbol) [0x00007FF7300D683C]
+	(No symbol) [0x00007FF7300D7221]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7304B96D4+1099860]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7301FD8FC+53532]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7301F0E25+1605]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7304B8665+1095653]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF73028C961+27777]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF730286CE4+4100]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF730286E1B+4411]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF73027CFA0+575424]
+	BaseThreadInitThunk [0x00007FFBC8037374+20]
+	RtlUserThreadStart [0x00007FFBC817CC91+33]
+
+[2024-07-16 15:57:33] Waiting for 10 seconds before closing the browser.
+[2024-07-16 15:57:35] Browser session ended.
+[2024-07-18 09:18:01] Browser session started.
+[2024-07-18 09:18:01] Browser window maximized.
+[2024-07-18 09:18:02] Navigated to Jumia homepage.
+[2024-07-18 09:18:05] Closed pop-up window.
+[2024-07-18 09:18:10] Mouse hover on 'Informatique' category.
+[2024-07-18 09:18:14] Click on 'Pc Gamer et composants' products
+[2024-07-18 09:18:14] Successfully navigated to 'Pc Gamer et composants' sub-category page.
+[2024-07-18 09:18:34] An error occurred: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7AABA8132+13538]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7AAB31DE9+595465]
+	(No symbol) [0x00007FF7AA94E6CF]
+	(No symbol) [0x00007FF7AA992960]
+	(No symbol) [0x00007FF7AA992A1F]
+	(No symbol) [0x00007FF7AA9CD627]
+	(No symbol) [0x00007FF7AA9B203F]
+	(No symbol) [0x00007FF7AA988147]
+	(No symbol) [0x00007FF7AA9CB1EE]
+	(No symbol) [0x00007FF7AA9B1C63]
+	(No symbol) [0x00007FF7AA98766E]
+	(No symbol) [0x00007FF7AA98683C]
+	(No symbol) [0x00007FF7AA987221]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7AAD696D4+1099860]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7AAAAD8FC+53532]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7AAAA0E25+1605]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7AAD68665+1095653]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7AAB3C961+27777]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7AAB36CE4+4100]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7AAB36E1B+4411]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7AAB2CFA0+575424]
+	BaseThreadInitThunk [0x00007FFBC8037374+20]
+	RtlUserThreadStart [0x00007FFBC817CC91+33]
+
+[2024-07-18 09:19:04] Waiting for 10 seconds before closing the browser.
+[2024-07-18 09:19:07] Browser session ended.
+[2024-07-18 09:22:57] Browser session started.
+[2024-07-18 09:22:57] Browser window maximized.
+[2024-07-18 09:22:59] Navigated to Jumia homepage.
+[2024-07-18 09:23:03] Closed pop-up window.
+[2024-07-18 09:23:06] Mouse hover on 'Informatique' category.
+[2024-07-18 09:23:10] Click on 'Pc Gamer et composants' products
+[2024-07-18 09:23:20] Failed to navigate to 'Pc Gamer et composants' sub-category page: Message: 
+
+[2024-07-18 09:23:43] An error occurred: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7AABA8132+13538]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7AAB31DE9+595465]
+	(No symbol) [0x00007FF7AA94E6CF]
+	(No symbol) [0x00007FF7AA992960]
+	(No symbol) [0x00007FF7AA992A1F]
+	(No symbol) [0x00007FF7AA9CD627]
+	(No symbol) [0x00007FF7AA9B203F]
+	(No symbol) [0x00007FF7AA988147]
+	(No symbol) [0x00007FF7AA9CB1EE]
+	(No symbol) [0x00007FF7AA9B1C63]
+	(No symbol) [0x00007FF7AA98766E]
+	(No symbol) [0x00007FF7AA98683C]
+	(No symbol) [0x00007FF7AA987221]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7AAD696D4+1099860]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7AAAAD8FC+53532]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7AAAA0E25+1605]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7AAD68665+1095653]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7AAB3C961+27777]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7AAB36CE4+4100]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7AAB36E1B+4411]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7AAB2CFA0+575424]
+	BaseThreadInitThunk [0x00007FFBC8037374+20]
+	RtlUserThreadStart [0x00007FFBC817CC91+33]
+
+[2024-07-18 09:24:13] Waiting for 10 seconds before closing the browser.
+[2024-07-18 09:24:16] Browser session ended.
+[2024-07-18 09:24:43] Browser session started.
+[2024-07-18 09:24:43] Browser window maximized.
+[2024-07-18 09:24:44] Navigated to Jumia homepage.
+[2024-07-18 09:24:47] Closed pop-up window.
+[2024-07-18 09:24:52] Mouse hover on 'Informatique' category.
+[2024-07-18 09:24:57] Click on 'Pc Gamer et composants' products
+[2024-07-18 09:24:57] Successfully navigated to 'Pc Gamer et composants' sub-category page.
+[2024-07-18 09:25:20] An error occurred: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7AABA8132+13538]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7AAB31DE9+595465]
+	(No symbol) [0x00007FF7AA94E6CF]
+	(No symbol) [0x00007FF7AA992960]
+	(No symbol) [0x00007FF7AA992A1F]
+	(No symbol) [0x00007FF7AA9CD627]
+	(No symbol) [0x00007FF7AA9B203F]
+	(No symbol) [0x00007FF7AA988147]
+	(No symbol) [0x00007FF7AA9CB1EE]
+	(No symbol) [0x00007FF7AA9B1C63]
+	(No symbol) [0x00007FF7AA98766E]
+	(No symbol) [0x00007FF7AA98683C]
+	(No symbol) [0x00007FF7AA987221]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7AAD696D4+1099860]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7AAAAD8FC+53532]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7AAAA0E25+1605]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7AAD68665+1095653]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7AAB3C961+27777]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7AAB36CE4+4100]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7AAB36E1B+4411]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7AAB2CFA0+575424]
+	BaseThreadInitThunk [0x00007FFBC8037374+20]
+	RtlUserThreadStart [0x00007FFBC817CC91+33]
+
+[2024-07-18 09:25:50] Waiting for 10 seconds before closing the browser.
+[2024-07-18 09:25:52] Browser session ended.
+[2024-07-18 09:30:01] Browser session started.
+[2024-07-18 09:30:01] Browser window maximized.
+[2024-07-18 09:30:02] Navigated to Jumia homepage.
+[2024-07-18 09:30:07] Closed pop-up window.
+[2024-07-18 09:30:11] Mouse hover on 'Informatique' category.
+[2024-07-18 09:30:15] Click on 'Pc Gamer et composants' products
+[2024-07-18 09:30:15] Successfully navigated to 'Pc Gamer et composants' sub-category page.
+[2024-07-18 09:30:15] An error occurred: Message: javascript error: Y is not defined
+  (Session info: MicrosoftEdge=126.0.2592.102)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7AABA8132+13538]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7AAB31DE9+595465]
+	(No symbol) [0x00007FF7AA94E6CF]
+	(No symbol) [0x00007FF7AA9537C9]
+	(No symbol) [0x00007FF7AA95599A]
+	(No symbol) [0x00007FF7AA9CBBD2]
+	(No symbol) [0x00007FF7AA9B1FFA]
+	(No symbol) [0x00007FF7AA988147]
+	(No symbol) [0x00007FF7AA9CB1EE]
+	(No symbol) [0x00007FF7AA9B1C63]
+	(No symbol) [0x00007FF7AA98766E]
+	(No symbol) [0x00007FF7AA98683C]
+	(No symbol) [0x00007FF7AA987221]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7AAD696D4+1099860]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7AAAAD8FC+53532]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7AAAA0E25+1605]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7AAD68665+1095653]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7AAB3C961+27777]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7AAB36CE4+4100]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7AAB36E1B+4411]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7AAB2CFA0+575424]
+	BaseThreadInitThunk [0x00007FFBC8037374+20]
+	RtlUserThreadStart [0x00007FFBC817CC91+33]
+
+[2024-07-18 09:30:45] Waiting for 10 seconds before closing the browser.
+[2024-07-18 09:30:47] Browser session ended.
+[2024-07-18 09:32:18] Browser session started.
+[2024-07-18 09:32:18] Browser window maximized.
+[2024-07-18 09:32:19] Navigated to Jumia homepage.
+[2024-07-18 09:32:24] Closed pop-up window.
+[2024-07-18 09:32:28] Mouse hover on 'Informatique' category.
+[2024-07-18 09:32:32] Click on 'Pc Gamer et composants' products
+[2024-07-18 09:32:32] Successfully navigated to 'Pc Gamer et composants' sub-category page.
+[2024-07-18 09:32:32] Window scroll
+[2024-07-18 09:32:56] Browser session started.
+[2024-07-18 09:32:56] Browser window maximized.
+[2024-07-18 09:32:58] Navigated to Jumia homepage.
+[2024-07-18 09:33:03] Closed pop-up window.
+[2024-07-18 09:33:07] Mouse hover on 'Informatique' category.
+[2024-07-18 09:33:12] Click on 'Pc Gamer et composants' products
+[2024-07-18 09:33:12] Successfully navigated to 'Pc Gamer et composants' sub-category page.
+[2024-07-18 09:33:12] Window scroll
+[2024-07-18 09:33:36] Browser session started.
+[2024-07-18 09:33:36] Browser window maximized.
+[2024-07-18 09:33:38] Navigated to Jumia homepage.
+[2024-07-18 09:33:42] Closed pop-up window.
+[2024-07-18 09:33:45] Mouse hover on 'Informatique' category.
+[2024-07-18 09:33:50] Click on 'Pc Gamer et composants' products
+[2024-07-18 09:33:50] Successfully navigated to 'Pc Gamer et composants' sub-category page.
+[2024-07-18 09:33:50] Window scroll
+[2024-07-18 09:34:04] Browser session started.
+[2024-07-18 09:34:04] Browser window maximized.
+[2024-07-18 09:34:06] Navigated to Jumia homepage.
+[2024-07-18 09:34:09] Closed pop-up window.
+[2024-07-18 09:34:13] Mouse hover on 'Informatique' category.
+[2024-07-18 09:34:18] Click on 'Pc Gamer et composants' products
+[2024-07-18 09:34:18] Successfully navigated to 'Pc Gamer et composants' sub-category page.
+[2024-07-18 09:34:18] Window scroll
+[2024-07-18 09:34:39] An error occurred: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7AABA8132+13538]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7AAB31DE9+595465]
+	(No symbol) [0x00007FF7AA94E6CF]
+	(No symbol) [0x00007FF7AA992960]
+	(No symbol) [0x00007FF7AA992A1F]
+	(No symbol) [0x00007FF7AA9CD627]
+	(No symbol) [0x00007FF7AA9B203F]
+	(No symbol) [0x00007FF7AA988147]
+	(No symbol) [0x00007FF7AA9CB1EE]
+	(No symbol) [0x00007FF7AA9B1C63]
+	(No symbol) [0x00007FF7AA98766E]
+	(No symbol) [0x00007FF7AA98683C]
+	(No symbol) [0x00007FF7AA987221]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7AAD696D4+1099860]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7AAAAD8FC+53532]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7AAAA0E25+1605]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7AAD68665+1095653]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7AAB3C961+27777]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7AAB36CE4+4100]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7AAB36E1B+4411]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7AAB2CFA0+575424]
+	BaseThreadInitThunk [0x00007FFBC8037374+20]
+	RtlUserThreadStart [0x00007FFBC817CC91+33]
+
+[2024-07-18 09:35:09] Waiting for 10 seconds before closing the browser.
+[2024-07-18 09:35:11] Browser session ended.
+[2024-07-18 09:37:10] Browser session started.
+[2024-07-18 09:37:10] Browser window maximized.
+[2024-07-18 09:37:12] Navigated to Jumia homepage.
+[2024-07-18 09:37:17] Closed pop-up window.
+[2024-07-18 09:37:22] Mouse hover on 'Informatique' category.
+[2024-07-18 09:37:28] Click on 'Pc Gamer et composants' products
+[2024-07-18 09:37:28] Successfully navigated to 'Pc Gamer et composants' sub-category page.
+[2024-07-18 09:37:28] Window scroll
+[2024-07-18 09:37:48] An error occurred: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7AABA8132+13538]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7AAB31DE9+595465]
+	(No symbol) [0x00007FF7AA94E6CF]
+	(No symbol) [0x00007FF7AA992960]
+	(No symbol) [0x00007FF7AA992A1F]
+	(No symbol) [0x00007FF7AA9CD627]
+	(No symbol) [0x00007FF7AA9B203F]
+	(No symbol) [0x00007FF7AA988147]
+	(No symbol) [0x00007FF7AA9CB1EE]
+	(No symbol) [0x00007FF7AA9B1C63]
+	(No symbol) [0x00007FF7AA98766E]
+	(No symbol) [0x00007FF7AA98683C]
+	(No symbol) [0x00007FF7AA987221]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7AAD696D4+1099860]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7AAAAD8FC+53532]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7AAAA0E25+1605]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7AAD68665+1095653]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7AAB3C961+27777]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7AAB36CE4+4100]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7AAB36E1B+4411]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7AAB2CFA0+575424]
+	BaseThreadInitThunk [0x00007FFBC8037374+20]
+	RtlUserThreadStart [0x00007FFBC817CC91+33]
+
+[2024-07-18 09:38:18] Waiting for 10 seconds before closing the browser.
+[2024-07-18 09:38:20] Browser session ended.
+[2024-07-18 09:42:43] Browser session started.
+[2024-07-18 09:42:43] Browser window maximized.
+[2024-07-18 09:42:45] Navigated to Jumia homepage.
+[2024-07-18 09:42:49] Closed pop-up window.
+[2024-07-18 09:42:53] Mouse hover on 'Informatique' category.
+[2024-07-18 09:42:59] Click on 'Pc Gamer et composants' products
+[2024-07-18 09:42:59] Successfully navigated to 'Pc Gamer et composants' sub-category page.
+[2024-07-18 09:42:59] Scroll down the webpage
+[2024-07-18 09:43:01] Click on 'XIAOMI Monitor A22i � Black' product
+[2024-07-18 09:43:02] Successfully navigated to 'xiaomi-monitor-a22i-black' product page.
+[2024-07-18 09:43:32] Waiting for 10 seconds before closing the browser.
+[2024-07-18 09:43:34] Browser session ended.
+
+

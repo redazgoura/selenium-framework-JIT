@@ -1,0 +1,24 @@
+[2024-07-10 15:55:45] Browser session started.
+[2024-07-10 15:55:45] Browser window maximized.
+[2024-07-10 15:55:47] Navigated to Jumia homepage .
+[2024-07-10 15:55:52] Closed pop-up window.
+[2024-07-10 15:55:56] Clicked on 'Informatique' category.
+[2024-07-10 15:55:56] Successfully navigated to 'Informatique' category page.
+[2024-07-10 15:56:06] Waiting for 10 seconds before closing the browser.
+[2024-07-10 15:56:08] Browser session ended.
+[2024-07-12 12:26:56] Browser session started.
+[2024-07-12 12:26:57] Browser window maximized.
+[2024-07-12 12:26:58] Navigated to Jumia homepage .
+[2024-07-12 12:27:03] Closed pop-up window.
+[2024-07-12 12:27:06] Clicked on 'Informatique' category.
+[2024-07-12 12:27:06] Successfully navigated to 'Informatique' category page.
+[2024-07-12 12:27:16] Waiting for 10 seconds before closing the browser.
+[2024-07-12 12:27:19] Browser session ended.
+[2024-07-16 10:15:03] Browser session started.
+[2024-07-16 10:15:04] Browser window maximized.
+[2024-07-16 10:15:05] Navigated to Jumia homepage.
+[2024-07-16 10:15:09] Closed pop-up window.
+[2024-07-16 10:15:14] Clicked on 'Informatique' category.
+[2024-07-16 10:15:14] Successfully navigated to 'Informatique' category page.
+[2024-07-16 10:15:24] Waiting for 10 seconds before closing the browser.
+[2024-07-16 10:15:26] Browser session ended.

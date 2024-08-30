@@ -1,0 +1,1299 @@
+[2024-07-18 11:04:52] Browser session started.
+[2024-07-18 11:04:52] Browser window maximized.
+[2024-07-18 11:04:53] Navigated to Jumia homepage.
+[2024-07-18 11:04:56] Closed pop-up window.
+[2024-07-18 11:05:00] Mouse hover on 'Informatique' category.
+[2024-07-18 11:05:06] Click on 'Pc Gamer et composants' products
+[2024-07-18 11:05:06] Successfully navigated to 'Pc Gamer et composants' sub-category page.
+[2024-07-18 11:05:06] Scroll down the webpage
+[2024-07-18 11:05:10] Click on 'XIAOMI Monitor A22i � Black' product
+[2024-07-18 11:05:10] Successfully navigated to 'xiaomi-monitor-a22i-black' product page.
+[2024-07-18 11:05:40] Waiting for 10 seconds before closing the browser.
+[2024-07-18 11:05:43] Browser session ended.
+[2024-07-18 14:44:18] Browser session started.
+[2024-07-18 14:44:18] Browser window maximized.
+[2024-07-18 14:44:20] Navigated to Jumia homepage.
+[2024-07-18 14:44:22] Closed pop-up window.
+[2024-07-18 14:44:25] Mouse hover on 'Informatique' category.
+[2024-07-18 14:44:29] Click on 'Pc Gamer et composants' products
+[2024-07-18 14:44:29] Successfully navigated to 'Pc Gamer et composants' sub-category page.
+[2024-07-18 14:44:30] Scroll down the webpage
+[2024-07-18 14:44:30] Product found
+[2024-07-18 14:44:31] An error occurred: Message: element click intercepted: Element is not clickable at point (776, 1969)
+  (Session info: MicrosoftEdge=126.0.2592.102)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7AABA8132+13538]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7AAB31DE9+595465]
+	(No symbol) [0x00007FF7AA94E6CF]
+	(No symbol) [0x00007FF7AA998E9E]
+	(No symbol) [0x00007FF7AA997101]
+	(No symbol) [0x00007FF7AA994E10]
+	(No symbol) [0x00007FF7AA993E26]
+	(No symbol) [0x00007FF7AA988711]
+	(No symbol) [0x00007FF7AA9B1FFA]
+	(No symbol) [0x00007FF7AA988147]
+	(No symbol) [0x00007FF7AA98800D]
+	(No symbol) [0x00007FF7AA9B22E0]
+	(No symbol) [0x00007FF7AA988147]
+	(No symbol) [0x00007FF7AA9CB1EE]
+	(No symbol) [0x00007FF7AA9B1C63]
+	(No symbol) [0x00007FF7AA98766E]
+	(No symbol) [0x00007FF7AA98683C]
+	(No symbol) [0x00007FF7AA987221]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7AAD696D4+1099860]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7AAAAD8FC+53532]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7AAAA0E25+1605]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7AAD68665+1095653]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7AAB3C961+27777]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7AAB36CE4+4100]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7AAB36E1B+4411]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7AAB2CFA0+575424]
+	BaseThreadInitThunk [0x00007FFBC8037374+20]
+	RtlUserThreadStart [0x00007FFBC817CC91+33]
+
+[2024-07-18 14:45:01] Waiting for 10 seconds before closing the browser.
+[2024-07-18 14:45:03] Browser session ended.
+[2024-07-18 14:54:54] Browser session started.
+[2024-07-18 14:54:54] Browser window maximized.
+[2024-07-18 14:54:56] Navigated to Jumia homepage.
+[2024-07-18 14:55:01] Closed pop-up window.
+[2024-07-18 14:55:04] Mouse hover on 'Informatique' category.
+[2024-07-18 14:55:08] Click on 'Pc Gamer et composants' products
+[2024-07-18 14:55:08] Successfully navigated to 'Pc Gamer et composants' sub-category page.
+[2024-07-18 14:55:09] Scroll down the webpage
+[2024-07-18 14:55:09] Product found
+[2024-07-18 14:55:12] An error occurred: move_to requires a WebElement
+[2024-07-18 14:55:42] Waiting for 10 seconds before closing the browser.
+[2024-07-18 14:55:45] Browser session ended.
+[2024-07-18 15:01:42] Browser session started.
+[2024-07-18 15:01:42] Browser window maximized.
+[2024-07-18 15:01:43] Navigated to Jumia homepage.
+[2024-07-18 15:01:46] Closed pop-up window.
+[2024-07-18 15:01:49] Mouse hover on 'Informatique' category.
+[2024-07-18 15:01:53] Click on 'Pc Gamer et composants' products
+[2024-07-18 15:01:53] Successfully navigated to 'Pc Gamer et composants' sub-category page.
+[2024-07-18 15:01:54] Scroll down the webpage
+[2024-07-18 15:01:54] Product found
+[2024-07-18 15:01:57] Mouse hover on 'Xiaomi' product.
+[2024-07-18 15:02:23] An error occurred: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7AABA8132+13538]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7AAB31DE9+595465]
+	(No symbol) [0x00007FF7AA94E6CF]
+	(No symbol) [0x00007FF7AA992960]
+	(No symbol) [0x00007FF7AA992A1F]
+	(No symbol) [0x00007FF7AA9CD627]
+	(No symbol) [0x00007FF7AA9B203F]
+	(No symbol) [0x00007FF7AA988147]
+	(No symbol) [0x00007FF7AA9CB1EE]
+	(No symbol) [0x00007FF7AA9B1C63]
+	(No symbol) [0x00007FF7AA98766E]
+	(No symbol) [0x00007FF7AA98683C]
+	(No symbol) [0x00007FF7AA987221]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7AAD696D4+1099860]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7AAAAD8FC+53532]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7AAAA0E25+1605]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7AAD68665+1095653]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7AAB3C961+27777]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7AAB36CE4+4100]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7AAB36E1B+4411]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7AAB2CFA0+575424]
+	BaseThreadInitThunk [0x00007FFBC8037374+20]
+	RtlUserThreadStart [0x00007FFBC817CC91+33]
+
+[2024-07-18 15:02:53] Waiting for 10 seconds before closing the browser.
+[2024-07-18 15:02:56] Browser session ended.
+[2024-07-18 15:03:07] Browser session started.
+[2024-07-18 15:03:08] Browser window maximized.
+[2024-07-18 15:03:09] Navigated to Jumia homepage.
+[2024-07-18 15:03:12] Closed pop-up window.
+[2024-07-18 15:03:15] Mouse hover on 'Informatique' category.
+[2024-07-18 15:03:18] Click on 'Pc Gamer et composants' products
+[2024-07-18 15:03:18] Successfully navigated to 'Pc Gamer et composants' sub-category page.
+[2024-07-18 15:03:19] Scroll down the webpage
+[2024-07-18 15:03:19] Product found
+[2024-07-18 15:03:23] Mouse hover on 'Xiaomi' product.
+[2024-07-18 15:03:47] Browser session started.
+[2024-07-18 15:03:48] Browser window maximized.
+[2024-07-18 15:03:49] Navigated to Jumia homepage.
+[2024-07-18 15:03:53] Closed pop-up window.
+[2024-07-18 15:03:57] Mouse hover on 'Informatique' category.
+[2024-07-18 15:04:02] Click on 'Pc Gamer et composants' products
+[2024-07-18 15:04:02] Successfully navigated to 'Pc Gamer et composants' sub-category page.
+[2024-07-18 15:04:03] Scroll down the webpage
+[2024-07-18 15:04:03] Product found
+[2024-07-18 15:04:08] Mouse hover on 'Xiaomi' product.
+[2024-07-18 15:04:32] An error occurred: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7AABA8132+13538]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7AAB31DE9+595465]
+	(No symbol) [0x00007FF7AA94E6CF]
+	(No symbol) [0x00007FF7AA992960]
+	(No symbol) [0x00007FF7AA992A1F]
+	(No symbol) [0x00007FF7AA9CD627]
+	(No symbol) [0x00007FF7AA9B203F]
+	(No symbol) [0x00007FF7AA988147]
+	(No symbol) [0x00007FF7AA9CB1EE]
+	(No symbol) [0x00007FF7AA9B1C63]
+	(No symbol) [0x00007FF7AA98766E]
+	(No symbol) [0x00007FF7AA98683C]
+	(No symbol) [0x00007FF7AA987221]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7AAD696D4+1099860]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7AAAAD8FC+53532]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7AAAA0E25+1605]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7AAD68665+1095653]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7AAB3C961+27777]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7AAB36CE4+4100]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7AAB36E1B+4411]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7AAB2CFA0+575424]
+	BaseThreadInitThunk [0x00007FFBC8037374+20]
+	RtlUserThreadStart [0x00007FFBC817CC91+33]
+
+[2024-07-18 15:05:02] Waiting for 10 seconds before closing the browser.
+[2024-07-18 15:05:04] Browser session ended.
+[2024-07-18 15:05:15] Browser session started.
+[2024-07-18 15:05:15] Browser window maximized.
+[2024-07-18 15:05:17] Navigated to Jumia homepage.
+[2024-07-18 15:05:19] Closed pop-up window.
+[2024-07-18 15:05:23] Mouse hover on 'Informatique' category.
+[2024-07-18 15:05:27] Click on 'Pc Gamer et composants' products
+[2024-07-18 15:05:27] Successfully navigated to 'Pc Gamer et composants' sub-category page.
+[2024-07-18 15:05:28] Scroll down the webpage
+[2024-07-18 15:05:28] Product found
+[2024-07-18 15:05:31] Mouse hover on 'Xiaomi' product.
+[2024-07-18 15:05:53] An error occurred: Message: element not interactable
+  (Session info: MicrosoftEdge=126.0.2592.102)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7AABA8132+13538]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7AAB31DE9+595465]
+	(No symbol) [0x00007FF7AA94E589]
+	(No symbol) [0x00007FF7AA993CAA]
+	(No symbol) [0x00007FF7AA988711]
+	(No symbol) [0x00007FF7AA9B1FFA]
+	(No symbol) [0x00007FF7AA988147]
+	(No symbol) [0x00007FF7AA98800D]
+	(No symbol) [0x00007FF7AA9B22E0]
+	(No symbol) [0x00007FF7AA988147]
+	(No symbol) [0x00007FF7AA9CB1EE]
+	(No symbol) [0x00007FF7AA9B1C63]
+	(No symbol) [0x00007FF7AA98766E]
+	(No symbol) [0x00007FF7AA98683C]
+	(No symbol) [0x00007FF7AA987221]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7AAD696D4+1099860]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7AAAAD8FC+53532]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7AAAA0E25+1605]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7AAD68665+1095653]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7AAB3C961+27777]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7AAB36CE4+4100]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7AAB36E1B+4411]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7AAB2CFA0+575424]
+	BaseThreadInitThunk [0x00007FFBC8037374+20]
+	RtlUserThreadStart [0x00007FFBC817CC91+33]
+
+[2024-07-18 15:06:23] Waiting for 10 seconds before closing the browser.
+[2024-07-18 15:06:25] Browser session ended.
+[2024-07-18 15:09:40] Browser session started.
+[2024-07-18 15:09:40] Browser window maximized.
+[2024-07-18 15:09:42] Navigated to Jumia homepage.
+[2024-07-18 15:09:47] Closed pop-up window.
+[2024-07-18 15:09:50] Mouse hover on 'Informatique' category.
+[2024-07-18 15:09:55] Click on 'Pc Gamer et composants' products
+[2024-07-18 15:09:56] Successfully navigated to 'Pc Gamer et composants' sub-category page.
+[2024-07-18 15:09:57] Scroll down the webpage
+[2024-07-18 15:09:57] Product found
+[2024-07-18 15:10:01] Mouse hover on 'Xiaomi' product.
+[2024-07-18 15:10:07] Boutton 'Ajouter au panier' Clicked
+[2024-07-18 15:10:37] Waiting for 10 seconds before closing the browser.
+[2024-07-18 15:10:40] Browser session ended.
+[2024-07-18 15:14:08] Browser session started.
+[2024-07-18 15:14:08] Browser window maximized.
+[2024-07-18 15:14:10] Navigated to Jumia homepage.
+[2024-07-18 15:14:14] Closed pop-up window.
+[2024-07-18 15:14:17] Mouse hover on 'Informatique' category.
+[2024-07-18 15:14:21] Click on 'Pc Gamer et composants' products
+[2024-07-18 15:14:21] Successfully navigated to 'Pc Gamer et composants' sub-category page.
+[2024-07-18 15:14:22] Scroll down the webpage
+[2024-07-18 15:14:22] Product found
+[2024-07-18 15:14:26] Mouse hover on 'Xiaomi' product.
+[2024-07-18 15:14:37] An error occurred: Message: element not interactable
+  (Session info: MicrosoftEdge=126.0.2592.102)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7AABA8132+13538]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7AAB31DE9+595465]
+	(No symbol) [0x00007FF7AA94E589]
+	(No symbol) [0x00007FF7AA993CAA]
+	(No symbol) [0x00007FF7AA988711]
+	(No symbol) [0x00007FF7AA9B1FFA]
+	(No symbol) [0x00007FF7AA988147]
+	(No symbol) [0x00007FF7AA98800D]
+	(No symbol) [0x00007FF7AA9B22E0]
+	(No symbol) [0x00007FF7AA988147]
+	(No symbol) [0x00007FF7AA9CB1EE]
+	(No symbol) [0x00007FF7AA9B1C63]
+	(No symbol) [0x00007FF7AA98766E]
+	(No symbol) [0x00007FF7AA98683C]
+	(No symbol) [0x00007FF7AA987221]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7AAD696D4+1099860]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7AAAAD8FC+53532]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7AAAA0E25+1605]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7AAD68665+1095653]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7AAB3C961+27777]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7AAB36CE4+4100]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7AAB36E1B+4411]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7AAB2CFA0+575424]
+	BaseThreadInitThunk [0x00007FFBC8037374+20]
+	RtlUserThreadStart [0x00007FFBC817CC91+33]
+
+[2024-07-18 15:15:07] Waiting for 10 seconds before closing the browser.
+[2024-07-18 15:15:09] Browser session ended.
+[2024-07-18 15:15:49] Browser session started.
+[2024-07-18 15:15:49] Browser window maximized.
+[2024-07-18 15:15:53] Navigated to Jumia homepage.
+[2024-07-18 15:15:58] Closed pop-up window.
+[2024-07-18 15:16:03] Mouse hover on 'Informatique' category.
+[2024-07-18 15:16:07] Click on 'Pc Gamer et composants' products
+[2024-07-18 15:16:07] Successfully navigated to 'Pc Gamer et composants' sub-category page.
+[2024-07-18 15:16:08] Scroll down the webpage
+[2024-07-18 15:16:08] Product found
+[2024-07-18 15:16:11] Mouse hover on 'Xiaomi' product.
+[2024-07-18 15:16:25] An error occurred: Message: element not interactable
+  (Session info: MicrosoftEdge=126.0.2592.102)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7AABA8132+13538]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7AAB31DE9+595465]
+	(No symbol) [0x00007FF7AA94E589]
+	(No symbol) [0x00007FF7AA993CAA]
+	(No symbol) [0x00007FF7AA988711]
+	(No symbol) [0x00007FF7AA9B1FFA]
+	(No symbol) [0x00007FF7AA988147]
+	(No symbol) [0x00007FF7AA98800D]
+	(No symbol) [0x00007FF7AA9B22E0]
+	(No symbol) [0x00007FF7AA988147]
+	(No symbol) [0x00007FF7AA9CB1EE]
+	(No symbol) [0x00007FF7AA9B1C63]
+	(No symbol) [0x00007FF7AA98766E]
+	(No symbol) [0x00007FF7AA98683C]
+	(No symbol) [0x00007FF7AA987221]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7AAD696D4+1099860]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7AAAAD8FC+53532]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7AAAA0E25+1605]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7AAD68665+1095653]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7AAB3C961+27777]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7AAB36CE4+4100]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7AAB36E1B+4411]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7AAB2CFA0+575424]
+	BaseThreadInitThunk [0x00007FFBC8037374+20]
+	RtlUserThreadStart [0x00007FFBC817CC91+33]
+
+[2024-07-18 15:16:33] Browser session started.
+[2024-07-18 15:16:33] Browser window maximized.
+[2024-07-18 15:16:36] Navigated to Jumia homepage.
+[2024-07-18 15:16:40] Closed pop-up window.
+[2024-07-18 15:16:42] Mouse hover on 'Informatique' category.
+[2024-07-18 15:16:46] Click on 'Pc Gamer et composants' products
+[2024-07-18 15:16:46] Successfully navigated to 'Pc Gamer et composants' sub-category page.
+[2024-07-18 15:16:47] Scroll down the webpage
+[2024-07-18 15:16:47] Product found
+[2024-07-18 15:16:51] Mouse hover on 'Xiaomi' product.
+[2024-07-18 15:17:03] An error occurred: Message: element not interactable
+  (Session info: MicrosoftEdge=126.0.2592.102)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7AABA8132+13538]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7AAB31DE9+595465]
+	(No symbol) [0x00007FF7AA94E589]
+	(No symbol) [0x00007FF7AA993CAA]
+	(No symbol) [0x00007FF7AA988711]
+	(No symbol) [0x00007FF7AA9B1FFA]
+	(No symbol) [0x00007FF7AA988147]
+	(No symbol) [0x00007FF7AA98800D]
+	(No symbol) [0x00007FF7AA9B22E0]
+	(No symbol) [0x00007FF7AA988147]
+	(No symbol) [0x00007FF7AA9CB1EE]
+	(No symbol) [0x00007FF7AA9B1C63]
+	(No symbol) [0x00007FF7AA98766E]
+	(No symbol) [0x00007FF7AA98683C]
+	(No symbol) [0x00007FF7AA987221]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7AAD696D4+1099860]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7AAAAD8FC+53532]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7AAAA0E25+1605]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7AAD68665+1095653]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7AAB3C961+27777]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7AAB36CE4+4100]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7AAB36E1B+4411]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7AAB2CFA0+575424]
+	BaseThreadInitThunk [0x00007FFBC8037374+20]
+	RtlUserThreadStart [0x00007FFBC817CC91+33]
+
+[2024-07-18 15:17:33] Waiting for 10 seconds before closing the browser.
+[2024-07-18 15:17:36] Browser session ended.
+[2024-07-18 15:17:48] Browser session started.
+[2024-07-18 15:17:48] Browser window maximized.
+[2024-07-18 15:17:52] Navigated to Jumia homepage.
+[2024-07-18 15:17:56] Closed pop-up window.
+[2024-07-18 15:17:59] Mouse hover on 'Informatique' category.
+[2024-07-18 15:18:05] Click on 'Pc Gamer et composants' products
+[2024-07-18 15:18:05] Successfully navigated to 'Pc Gamer et composants' sub-category page.
+[2024-07-18 15:18:06] Scroll down the webpage
+[2024-07-18 15:18:06] Product found
+[2024-07-18 15:18:10] Mouse hover on 'Xiaomi' product.
+[2024-07-18 15:18:24] Boutton 'Ajouter au panier' Clicked
+[2024-07-18 15:18:54] Waiting for 10 seconds before closing the browser.
+[2024-07-18 15:18:57] Browser session ended.
+[2024-07-18 15:25:13] Browser session started.
+[2024-07-18 15:25:13] Browser window maximized.
+[2024-07-18 15:25:25] Navigated to Jumia homepage.
+[2024-07-18 15:25:28] Closed pop-up window.
+[2024-07-18 15:25:34] Mouse hover on 'Informatique' category.
+[2024-07-18 15:25:43] Click on 'Pc Gamer et composants' products
+[2024-07-18 15:25:43] Successfully navigated to 'Pc Gamer et composants' sub-category page.
+[2024-07-18 15:26:44] An error occurred: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+[2024-07-18 15:26:51] Browser session started.
+[2024-07-18 15:26:51] Browser window maximized.
+[2024-07-18 15:26:54] Navigated to Jumia homepage.
+[2024-07-18 15:26:59] Closed pop-up window.
+[2024-07-18 15:27:02] Mouse hover on 'Informatique' category.
+[2024-07-18 15:27:08] Click on 'Pc Gamer et composants' products
+[2024-07-18 15:27:08] Successfully navigated to 'Pc Gamer et composants' sub-category page.
+[2024-07-18 15:28:06] An error occurred: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+[2024-07-18 15:31:24] Browser session started.
+[2024-07-18 15:31:24] Browser window maximized.
+[2024-07-18 15:31:30] Navigated to Jumia homepage.
+[2024-07-18 15:31:35] Closed pop-up window.
+[2024-07-18 15:31:39] Mouse hover on 'Informatique' category.
+[2024-07-18 15:31:45] Click on 'Pc Gamer et composants' products
+[2024-07-18 15:31:45] Successfully navigated to 'Pc Gamer et composants' sub-category page.
+[2024-07-18 15:31:46] Scroll down the webpage
+[2024-07-18 15:31:46] Product found
+[2024-07-18 15:31:50] Mouse hover on 'Xiaomi' product.
+[2024-07-18 15:32:12] An error occurred: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7AABA8132+13538]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7AAB31DE9+595465]
+	(No symbol) [0x00007FF7AA94E6CF]
+	(No symbol) [0x00007FF7AA992960]
+	(No symbol) [0x00007FF7AA992A1F]
+	(No symbol) [0x00007FF7AA9CD627]
+	(No symbol) [0x00007FF7AA9B203F]
+	(No symbol) [0x00007FF7AA988147]
+	(No symbol) [0x00007FF7AA9CB1EE]
+	(No symbol) [0x00007FF7AA9B1C63]
+	(No symbol) [0x00007FF7AA98766E]
+	(No symbol) [0x00007FF7AA98683C]
+	(No symbol) [0x00007FF7AA987221]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7AAD696D4+1099860]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7AAAAD8FC+53532]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7AAAA0E25+1605]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7AAD68665+1095653]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7AAB3C961+27777]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7AAB36CE4+4100]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7AAB36E1B+4411]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7AAB2CFA0+575424]
+	BaseThreadInitThunk [0x00007FFBC8037374+20]
+	RtlUserThreadStart [0x00007FFBC817CC91+33]
+
+[2024-07-18 15:32:42] Waiting for 10 seconds before closing the browser.
+[2024-07-18 15:32:45] Browser session ended.
+[2024-07-18 15:34:29] Browser session started.
+[2024-07-18 15:34:29] Browser window maximized.
+[2024-07-18 15:34:35] Navigated to Jumia homepage.
+[2024-07-18 15:34:40] Closed pop-up window.
+[2024-07-18 15:34:45] Mouse hover on 'Informatique' category.
+[2024-07-18 15:34:50] Click on 'Pc Gamer et composants' products
+[2024-07-18 15:34:50] Successfully navigated to 'Pc Gamer et composants' sub-category page.
+[2024-07-18 15:35:29] An error occurred: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+[2024-07-18 15:37:57] Browser session started.
+[2024-07-18 15:37:57] Browser window maximized.
+[2024-07-18 15:38:07] Navigated to Jumia homepage.
+[2024-07-18 15:38:10] Closed pop-up window.
+[2024-07-18 15:38:13] Mouse hover on 'Informatique' category.
+[2024-07-18 15:38:17] Click on 'Pc Gamer et composants' products
+[2024-07-18 15:38:18] Successfully navigated to 'Pc Gamer et composants' sub-category page.
+[2024-07-18 15:38:56] An error occurred: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+[2024-07-18 15:39:43] Browser session started.
+[2024-07-18 15:39:43] Browser window maximized.
+[2024-07-18 15:39:47] Navigated to Jumia homepage.
+[2024-07-18 15:39:53] Closed pop-up window.
+[2024-07-18 15:39:56] Mouse hover on 'Informatique' category.
+[2024-07-18 15:40:01] Click on 'Pc Gamer et composants' products
+[2024-07-18 15:40:01] Successfully navigated to 'Pc Gamer et composants' sub-category page.
+[2024-07-18 15:40:02] Scroll down the webpage
+[2024-07-18 15:40:02] Product found
+[2024-07-18 15:40:06] Mouse hover on 'Xiaomi' product.
+[2024-07-18 15:40:31] An error occurred: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7AABA8132+13538]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7AAB31DE9+595465]
+	(No symbol) [0x00007FF7AA94E6CF]
+	(No symbol) [0x00007FF7AA992960]
+	(No symbol) [0x00007FF7AA992A1F]
+	(No symbol) [0x00007FF7AA9CD627]
+	(No symbol) [0x00007FF7AA9B203F]
+	(No symbol) [0x00007FF7AA988147]
+	(No symbol) [0x00007FF7AA9CB1EE]
+	(No symbol) [0x00007FF7AA9B1C63]
+	(No symbol) [0x00007FF7AA98766E]
+	(No symbol) [0x00007FF7AA98683C]
+	(No symbol) [0x00007FF7AA987221]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7AAD696D4+1099860]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7AAAAD8FC+53532]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7AAAA0E25+1605]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7AAD68665+1095653]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7AAB3C961+27777]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7AAB36CE4+4100]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7AAB36E1B+4411]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7AAB2CFA0+575424]
+	BaseThreadInitThunk [0x00007FFBC8037374+20]
+	RtlUserThreadStart [0x00007FFBC817CC91+33]
+
+[2024-07-18 15:41:01] Waiting for 10 seconds before closing the browser.
+[2024-07-18 15:41:03] Browser session ended.
+[2024-07-18 15:41:12] Browser session started.
+[2024-07-18 15:41:12] Browser window maximized.
+[2024-07-18 15:41:14] Navigated to Jumia homepage.
+[2024-07-18 15:41:17] Closed pop-up window.
+[2024-07-18 15:41:21] Mouse hover on 'Informatique' category.
+[2024-07-18 15:41:25] Click on 'Pc Gamer et composants' products
+[2024-07-18 15:41:25] Successfully navigated to 'Pc Gamer et composants' sub-category page.
+[2024-07-18 15:41:26] Scroll down the webpage
+[2024-07-18 15:41:26] Product found
+[2024-07-18 15:41:29] Mouse hover on 'Xiaomi' product.
+[2024-07-18 15:43:21] Browser session started.
+[2024-07-18 15:43:22] Browser window maximized.
+[2024-07-18 15:43:23] Navigated to Jumia homepage.
+[2024-07-18 15:43:26] Closed pop-up window.
+[2024-07-18 15:43:30] Mouse hover on 'Informatique' category.
+[2024-07-18 15:43:34] Click on 'Pc Gamer et composants' products
+[2024-07-18 15:43:34] Successfully navigated to 'Pc Gamer et composants' sub-category page.
+[2024-07-18 15:43:35] Scroll down the webpage
+[2024-07-18 15:43:35] Product found
+[2024-07-18 15:43:38] Mouse hover on 'Xiaomi' product.
+[2024-07-18 15:44:03] An error occurred: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7AABA8132+13538]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7AAB31DE9+595465]
+	(No symbol) [0x00007FF7AA94E6CF]
+	(No symbol) [0x00007FF7AA992960]
+	(No symbol) [0x00007FF7AA992A1F]
+	(No symbol) [0x00007FF7AA9CD627]
+	(No symbol) [0x00007FF7AA9B203F]
+	(No symbol) [0x00007FF7AA988147]
+	(No symbol) [0x00007FF7AA9CB1EE]
+	(No symbol) [0x00007FF7AA9B1C63]
+	(No symbol) [0x00007FF7AA98766E]
+	(No symbol) [0x00007FF7AA98683C]
+	(No symbol) [0x00007FF7AA987221]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7AAD696D4+1099860]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7AAAAD8FC+53532]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7AAAA0E25+1605]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7AAD68665+1095653]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7AAB3C961+27777]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7AAB36CE4+4100]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7AAB36E1B+4411]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7AAB2CFA0+575424]
+	BaseThreadInitThunk [0x00007FFBC8037374+20]
+	RtlUserThreadStart [0x00007FFBC817CC91+33]
+
+[2024-07-18 15:44:33] Waiting for 10 seconds before closing the browser.
+[2024-07-18 15:44:36] Browser session ended.
+[2024-07-18 15:45:50] Browser session started.
+[2024-07-18 15:45:50] Browser window maximized.
+[2024-07-18 15:45:52] Navigated to Jumia homepage.
+[2024-07-18 15:45:56] Closed pop-up window.
+[2024-07-18 15:46:01] Mouse hover on 'Informatique' category.
+[2024-07-18 15:46:04] Click on 'Pc Gamer et composants' products
+[2024-07-18 15:46:04] Successfully navigated to 'Pc Gamer et composants' sub-category page.
+[2024-07-18 15:46:06] Scroll down the webpage
+[2024-07-18 15:46:06] Product found
+[2024-07-18 15:46:10] Mouse hover on 'Xiaomi' product.
+[2024-07-18 15:46:32] An error occurred: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7AABA8132+13538]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7AAB31DE9+595465]
+	(No symbol) [0x00007FF7AA94E6CF]
+	(No symbol) [0x00007FF7AA992960]
+	(No symbol) [0x00007FF7AA992A1F]
+	(No symbol) [0x00007FF7AA9CD627]
+	(No symbol) [0x00007FF7AA9B203F]
+	(No symbol) [0x00007FF7AA988147]
+	(No symbol) [0x00007FF7AA9CB1EE]
+	(No symbol) [0x00007FF7AA9B1C63]
+	(No symbol) [0x00007FF7AA98766E]
+	(No symbol) [0x00007FF7AA98683C]
+	(No symbol) [0x00007FF7AA987221]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7AAD696D4+1099860]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7AAAAD8FC+53532]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7AAAA0E25+1605]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7AAD68665+1095653]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7AAB3C961+27777]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7AAB36CE4+4100]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7AAB36E1B+4411]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7AAB2CFA0+575424]
+	BaseThreadInitThunk [0x00007FFBC8037374+20]
+	RtlUserThreadStart [0x00007FFBC817CC91+33]
+
+[2024-07-18 15:47:02] Waiting for 10 seconds before closing the browser.
+[2024-07-18 15:47:04] Browser session ended.
+[2024-07-18 15:48:00] Browser session started.
+[2024-07-18 15:48:00] Browser window maximized.
+[2024-07-18 15:48:01] Navigated to Jumia homepage.
+[2024-07-18 15:48:05] Closed pop-up window.
+[2024-07-18 15:48:09] Mouse hover on 'Informatique' category.
+[2024-07-18 15:48:13] Click on 'Pc Gamer et composants' products
+[2024-07-18 15:48:13] Successfully navigated to 'Pc Gamer et composants' sub-category page.
+[2024-07-18 15:48:14] Scroll down the webpage
+[2024-07-18 15:48:14] Product found
+[2024-07-18 15:48:19] Mouse hover on 'Xiaomi' product.
+[2024-07-18 15:50:13] Browser session started.
+[2024-07-18 15:50:13] Browser window maximized.
+[2024-07-18 15:50:15] Navigated to Jumia homepage.
+[2024-07-18 15:50:20] Closed pop-up window.
+[2024-07-18 15:50:24] Mouse hover on 'Informatique' category.
+[2024-07-18 15:50:28] Click on 'Pc Gamer et composants' products
+[2024-07-18 15:50:28] Successfully navigated to 'Pc Gamer et composants' sub-category page.
+[2024-07-18 15:50:29] Scroll down the webpage
+[2024-07-18 15:50:29] Product found
+[2024-07-18 15:50:33] Mouse hover on 'Xiaomi' product.
+[2024-07-18 15:50:57] An error occurred: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7AABA8132+13538]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7AAB31DE9+595465]
+	(No symbol) [0x00007FF7AA94E6CF]
+	(No symbol) [0x00007FF7AA992960]
+	(No symbol) [0x00007FF7AA992A1F]
+	(No symbol) [0x00007FF7AA9CD627]
+	(No symbol) [0x00007FF7AA9B203F]
+	(No symbol) [0x00007FF7AA988147]
+	(No symbol) [0x00007FF7AA9CB1EE]
+	(No symbol) [0x00007FF7AA9B1C63]
+	(No symbol) [0x00007FF7AA98766E]
+	(No symbol) [0x00007FF7AA98683C]
+	(No symbol) [0x00007FF7AA987221]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7AAD696D4+1099860]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7AAAAD8FC+53532]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7AAAA0E25+1605]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7AAD68665+1095653]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7AAB3C961+27777]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7AAB36CE4+4100]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7AAB36E1B+4411]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7AAB2CFA0+575424]
+	BaseThreadInitThunk [0x00007FFBC8037374+20]
+	RtlUserThreadStart [0x00007FFBC817CC91+33]
+
+[2024-07-18 15:51:22] Browser session started.
+[2024-07-18 15:51:22] Browser window maximized.
+[2024-07-18 15:51:27] Navigated to Jumia homepage.
+[2024-07-18 15:51:32] Closed pop-up window.
+[2024-07-18 15:51:37] Mouse hover on 'Informatique' category.
+[2024-07-18 15:51:41] Click on 'Pc Gamer et composants' products
+[2024-07-18 15:51:41] Successfully navigated to 'Pc Gamer et composants' sub-category page.
+[2024-07-18 15:51:42] Scroll down the webpage
+[2024-07-18 15:51:42] Product found
+[2024-07-18 15:51:44] Mouse hover on 'Xiaomi' product.
+[2024-07-18 15:54:54] Browser session started.
+[2024-07-18 15:54:54] Browser window maximized.
+[2024-07-18 15:54:56] Navigated to Jumia homepage.
+[2024-07-18 15:54:59] Closed pop-up window.
+[2024-07-18 15:55:04] Mouse hover on 'Informatique' category.
+[2024-07-18 15:55:08] Click on 'Pc Gamer et composants' products
+[2024-07-18 15:55:08] Successfully navigated to 'Pc Gamer et composants' sub-category page.
+[2024-07-18 15:55:09] Scroll down the webpage
+[2024-07-18 15:55:09] Product found
+[2024-07-18 15:55:12] Mouse hover on 'Xiaomi' product.
+[2024-07-18 15:55:36] An error occurred: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7AABA8132+13538]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7AAB31DE9+595465]
+	(No symbol) [0x00007FF7AA94E6CF]
+	(No symbol) [0x00007FF7AA992960]
+	(No symbol) [0x00007FF7AA992A1F]
+	(No symbol) [0x00007FF7AA9CD627]
+	(No symbol) [0x00007FF7AA9B203F]
+	(No symbol) [0x00007FF7AA988147]
+	(No symbol) [0x00007FF7AA9CB1EE]
+	(No symbol) [0x00007FF7AA9B1C63]
+	(No symbol) [0x00007FF7AA98766E]
+	(No symbol) [0x00007FF7AA98683C]
+	(No symbol) [0x00007FF7AA987221]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7AAD696D4+1099860]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7AAAAD8FC+53532]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7AAAA0E25+1605]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7AAD68665+1095653]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7AAB3C961+27777]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7AAB36CE4+4100]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7AAB36E1B+4411]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7AAB2CFA0+575424]
+	BaseThreadInitThunk [0x00007FFBC8037374+20]
+	RtlUserThreadStart [0x00007FFBC817CC91+33]
+
+[2024-07-18 15:56:06] Waiting for 10 seconds before closing the browser.
+[2024-07-18 15:56:08] Browser session ended.
+[2024-07-18 15:56:23] Browser session started.
+[2024-07-18 15:56:23] Browser window maximized.
+[2024-07-18 15:56:25] Navigated to Jumia homepage.
+[2024-07-18 15:56:28] Closed pop-up window.
+[2024-07-18 15:56:33] Mouse hover on 'Informatique' category.
+[2024-07-18 15:56:41] Click on 'Pc Gamer et composants' products
+[2024-07-18 15:56:41] Successfully navigated to 'Pc Gamer et composants' sub-category page.
+[2024-07-18 15:56:42] Scroll down the webpage
+[2024-07-18 15:56:42] Product found
+[2024-07-18 15:56:45] Mouse hover on 'Xiaomi' product.
+[2024-07-21 16:16:16] Browser session started.
+[2024-07-21 16:16:16] Browser window maximized.
+[2024-07-21 16:16:17] Navigated to Jumia homepage.
+[2024-07-21 16:16:21] Closed pop-up window.
+[2024-07-21 16:16:24] Mouse hover on 'Informatique' category.
+[2024-07-21 16:16:27] Click on 'Pc Gamer et composants' products
+[2024-07-21 16:16:27] Successfully navigated to 'Pc Gamer et composants' sub-category page.
+[2024-07-21 16:16:34] Scroll down the webpage
+[2024-07-21 16:16:34] Product not found !!!!
+[2024-07-21 16:40:02] Browser session started.
+[2024-07-21 16:40:03] Browser window maximized.
+[2024-07-21 16:40:04] Navigated to Jumia homepage.
+[2024-07-21 16:40:06] Closed pop-up window.
+[2024-07-21 16:40:09] Mouse hover on 'Informatique' category.
+[2024-07-21 16:40:13] Click on 'Pc Gamer et composants' products
+[2024-07-21 16:40:13] Successfully navigated to 'Pc Gamer et composants' sub-category page.
+[2024-07-21 16:40:13] An error occurred: unsupported operand type(s) for +: 'WebElement' and 'str'
+[2024-07-21 16:40:43] Waiting for 10 seconds before closing the browser.
+[2024-07-21 16:40:46] Browser session ended.
+[2024-07-21 16:46:01] Browser session started.
+[2024-07-21 16:46:02] Browser window maximized.
+[2024-07-21 16:46:03] Navigated to Jumia homepage.
+[2024-07-21 16:46:06] Closed pop-up window.
+[2024-07-21 16:46:11] Mouse hover on 'Informatique' category.
+[2024-07-21 16:46:16] Click on 'Pc Gamer et composants' products
+[2024-07-21 16:46:16] Successfully navigated to 'Pc Gamer et composants' sub-category page.
+[2024-07-21 16:46:16] An error occurred: 'str' object is not callable
+[2024-07-21 16:46:46] Waiting for 10 seconds before closing the browser.
+[2024-07-21 16:46:48] Browser session ended.
+[2024-07-21 16:56:32] Browser session started.
+[2024-07-21 16:56:33] Browser window maximized.
+[2024-07-21 16:56:34] Navigated to Jumia homepage.
+[2024-07-21 16:56:36] Closed pop-up window.
+[2024-07-21 16:56:40] Mouse hover on 'Informatique' category.
+[2024-07-21 16:56:43] Click on 'Pc Gamer et composants' products
+[2024-07-21 16:56:43] Successfully navigated to 'Pc Gamer et composants' sub-category page.
+[2024-07-21 16:56:43] An error occurred: 'str' object is not callable
+[2024-07-21 16:57:13] Waiting for 10 seconds before closing the browser.
+[2024-07-21 16:57:16] Browser session ended.
+[2024-07-21 16:59:03] Browser session started.
+[2024-07-21 16:59:03] Browser window maximized.
+[2024-07-21 16:59:04] Navigated to Jumia homepage.
+[2024-07-21 16:59:08] Closed pop-up window.
+[2024-07-21 16:59:12] Mouse hover on 'Informatique' category.
+[2024-07-21 17:00:24] Browser session started.
+[2024-07-21 17:00:24] Browser window maximized.
+[2024-07-21 17:00:25] Navigated to Jumia homepage.
+[2024-07-21 17:00:30] Closed pop-up window.
+[2024-07-21 17:00:33] Mouse hover on 'Informatique' category.
+[2024-07-21 17:00:38] Click on 'Pc Gamer et composants' products
+[2024-07-21 17:00:38] Successfully navigated to 'Pc Gamer et composants' sub-category page.
+[2024-07-21 17:00:39] Scroll down the webpage
+[2024-07-21 17:00:39] Product found
+[2024-07-21 17:00:43] Mouse hover on 'Xiaomi Monitor' product.
+[2024-07-21 17:00:50] An error occurred: Message: element not interactable
+  (Session info: MicrosoftEdge=126.0.2592.113)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7A7288132+13538]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7A7211DE9+595465]
+	(No symbol) [0x00007FF7A702E589]
+	(No symbol) [0x00007FF7A7073CAA]
+	(No symbol) [0x00007FF7A7068711]
+	(No symbol) [0x00007FF7A7091FFA]
+	(No symbol) [0x00007FF7A7068147]
+	(No symbol) [0x00007FF7A706800D]
+	(No symbol) [0x00007FF7A70922E0]
+	(No symbol) [0x00007FF7A7068147]
+	(No symbol) [0x00007FF7A70AB1EE]
+	(No symbol) [0x00007FF7A7091C63]
+	(No symbol) [0x00007FF7A706766E]
+	(No symbol) [0x00007FF7A706683C]
+	(No symbol) [0x00007FF7A7067221]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7A74496D4+1099860]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7A718D8FC+53532]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7A7180E25+1605]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7A7448665+1095653]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7A721C961+27777]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7A7216CE4+4100]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7A7216E1B+4411]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7A720CFA0+575424]
+	BaseThreadInitThunk [0x00007FFBC8037374+20]
+	RtlUserThreadStart [0x00007FFBC817CC91+33]
+
+[2024-07-21 17:01:50] Browser session started.
+[2024-07-21 17:01:50] Browser window maximized.
+[2024-07-21 17:01:52] Navigated to Jumia homepage.
+[2024-07-21 17:01:55] Closed pop-up window.
+[2024-07-21 17:01:58] Mouse hover on 'Informatique' category.
+[2024-07-21 17:02:01] Click on 'Pc Gamer et composants' products
+[2024-07-21 17:02:01] Successfully navigated to 'Pc Gamer et composants' sub-category page.
+[2024-07-21 17:02:02] Scroll down the webpage
+[2024-07-21 17:02:02] Product found
+[2024-07-21 17:02:08] Mouse hover on 'Xiaomi Monitor' product.
+[2024-07-21 17:02:16] An error occurred: Message: element not interactable
+  (Session info: MicrosoftEdge=126.0.2592.113)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7A7288132+13538]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7A7211DE9+595465]
+	(No symbol) [0x00007FF7A702E589]
+	(No symbol) [0x00007FF7A7073CAA]
+	(No symbol) [0x00007FF7A7068711]
+	(No symbol) [0x00007FF7A7091FFA]
+	(No symbol) [0x00007FF7A7068147]
+	(No symbol) [0x00007FF7A706800D]
+	(No symbol) [0x00007FF7A70922E0]
+	(No symbol) [0x00007FF7A7068147]
+	(No symbol) [0x00007FF7A70AB1EE]
+	(No symbol) [0x00007FF7A7091C63]
+	(No symbol) [0x00007FF7A706766E]
+	(No symbol) [0x00007FF7A706683C]
+	(No symbol) [0x00007FF7A7067221]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7A74496D4+1099860]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7A718D8FC+53532]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7A7180E25+1605]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7A7448665+1095653]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7A721C961+27777]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7A7216CE4+4100]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7A7216E1B+4411]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7A720CFA0+575424]
+	BaseThreadInitThunk [0x00007FFBC8037374+20]
+	RtlUserThreadStart [0x00007FFBC817CC91+33]
+
+[2024-07-21 17:02:46] Waiting for 10 seconds before closing the browser.
+[2024-07-21 17:02:49] Browser session ended.
+[2024-07-21 17:03:11] Browser session started.
+[2024-07-21 17:03:11] Browser window maximized.
+[2024-07-21 17:03:12] Navigated to Jumia homepage.
+[2024-07-21 17:03:16] Closed pop-up window.
+[2024-07-21 17:03:19] Mouse hover on 'Informatique' category.
+[2024-07-21 17:03:25] Click on 'Pc Gamer et composants' products
+[2024-07-21 17:03:25] Successfully navigated to 'Pc Gamer et composants' sub-category page.
+[2024-07-21 17:03:26] Scroll down the webpage
+[2024-07-21 17:03:26] Product found
+[2024-07-21 17:03:28] Mouse hover on 'Xiaomi Monitor' product.
+[2024-07-21 17:03:36] An error occurred: Message: element not interactable
+  (Session info: MicrosoftEdge=126.0.2592.113)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7A7288132+13538]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7A7211DE9+595465]
+	(No symbol) [0x00007FF7A702E589]
+	(No symbol) [0x00007FF7A7073CAA]
+	(No symbol) [0x00007FF7A7068711]
+	(No symbol) [0x00007FF7A7091FFA]
+	(No symbol) [0x00007FF7A7068147]
+	(No symbol) [0x00007FF7A706800D]
+	(No symbol) [0x00007FF7A70922E0]
+	(No symbol) [0x00007FF7A7068147]
+	(No symbol) [0x00007FF7A70AB1EE]
+	(No symbol) [0x00007FF7A7091C63]
+	(No symbol) [0x00007FF7A706766E]
+	(No symbol) [0x00007FF7A706683C]
+	(No symbol) [0x00007FF7A7067221]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7A74496D4+1099860]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7A718D8FC+53532]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7A7180E25+1605]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7A7448665+1095653]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7A721C961+27777]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7A7216CE4+4100]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7A7216E1B+4411]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7A720CFA0+575424]
+	BaseThreadInitThunk [0x00007FFBC8037374+20]
+	RtlUserThreadStart [0x00007FFBC817CC91+33]
+
+[2024-07-21 17:04:06] Waiting for 10 seconds before closing the browser.
+[2024-07-21 17:07:35] Browser session started.
+[2024-07-21 17:07:35] Browser window maximized.
+[2024-07-21 17:07:36] Navigated to Jumia homepage.
+[2024-07-21 17:07:40] Closed pop-up window.
+[2024-07-21 17:07:44] Mouse hover on 'Informatique' category.
+[2024-07-21 17:07:50] Click on 'Pc Gamer et composants' products
+[2024-07-21 17:07:50] Successfully navigated to 'Pc Gamer et composants' sub-category page.
+[2024-07-21 17:07:51] Scroll down the webpage
+[2024-07-21 17:07:51] Product found
+[2024-07-21 17:07:56] Mouse hover on 'Xiaomi Monitor' product.
+[2024-07-21 17:08:04] An error occurred: Message: element not interactable
+  (Session info: MicrosoftEdge=126.0.2592.113)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7A7288132+13538]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7A7211DE9+595465]
+	(No symbol) [0x00007FF7A702E589]
+	(No symbol) [0x00007FF7A7073CAA]
+	(No symbol) [0x00007FF7A7068711]
+	(No symbol) [0x00007FF7A7091FFA]
+	(No symbol) [0x00007FF7A7068147]
+	(No symbol) [0x00007FF7A706800D]
+	(No symbol) [0x00007FF7A70922E0]
+	(No symbol) [0x00007FF7A7068147]
+	(No symbol) [0x00007FF7A70AB1EE]
+	(No symbol) [0x00007FF7A7091C63]
+	(No symbol) [0x00007FF7A706766E]
+	(No symbol) [0x00007FF7A706683C]
+	(No symbol) [0x00007FF7A7067221]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7A74496D4+1099860]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7A718D8FC+53532]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7A7180E25+1605]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7A7448665+1095653]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7A721C961+27777]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7A7216CE4+4100]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7A7216E1B+4411]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7A720CFA0+575424]
+	BaseThreadInitThunk [0x00007FFBC8037374+20]
+	RtlUserThreadStart [0x00007FFBC817CC91+33]
+
+[2024-07-21 17:08:34] Waiting for 10 seconds before closing the browser.
+[2024-07-21 17:08:36] Browser session ended.
+[2024-07-21 17:09:03] Browser session started.
+[2024-07-21 17:09:03] Browser window maximized.
+[2024-07-21 17:09:05] Navigated to Jumia homepage.
+[2024-07-21 17:09:09] Closed pop-up window.
+[2024-07-21 17:09:12] Mouse hover on 'Informatique' category.
+[2024-07-21 17:09:17] Click on 'Pc Gamer et composants' products
+[2024-07-21 17:09:17] Successfully navigated to 'Pc Gamer et composants' sub-category page.
+[2024-07-21 17:09:18] Scroll down the webpage
+[2024-07-21 17:09:18] Product found
+[2024-07-21 17:09:21] Mouse hover on 'Xiaomi Monitor' product.
+[2024-07-21 17:09:28] An error occurred: Message: element not interactable
+  (Session info: MicrosoftEdge=126.0.2592.113)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7A7288132+13538]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7A7211DE9+595465]
+	(No symbol) [0x00007FF7A702E589]
+	(No symbol) [0x00007FF7A7073CAA]
+	(No symbol) [0x00007FF7A7068711]
+	(No symbol) [0x00007FF7A7091FFA]
+	(No symbol) [0x00007FF7A7068147]
+	(No symbol) [0x00007FF7A706800D]
+	(No symbol) [0x00007FF7A70922E0]
+	(No symbol) [0x00007FF7A7068147]
+	(No symbol) [0x00007FF7A70AB1EE]
+	(No symbol) [0x00007FF7A7091C63]
+	(No symbol) [0x00007FF7A706766E]
+	(No symbol) [0x00007FF7A706683C]
+	(No symbol) [0x00007FF7A7067221]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7A74496D4+1099860]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7A718D8FC+53532]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7A7180E25+1605]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7A7448665+1095653]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7A721C961+27777]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7A7216CE4+4100]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7A7216E1B+4411]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7A720CFA0+575424]
+	BaseThreadInitThunk [0x00007FFBC8037374+20]
+	RtlUserThreadStart [0x00007FFBC817CC91+33]
+
+[2024-07-21 17:13:07] Browser session started.
+[2024-07-21 17:13:07] Browser window maximized.
+[2024-07-21 17:13:08] Navigated to Jumia homepage.
+[2024-07-21 17:13:12] Closed pop-up window.
+[2024-07-21 17:13:17] Mouse hover on 'Informatique' category.
+[2024-07-21 17:13:23] Click on 'Pc Gamer et composants' products
+[2024-07-21 17:13:23] Successfully navigated to 'Pc Gamer et composants' sub-category page.
+[2024-07-21 17:13:24] Scroll down the webpage
+[2024-07-21 17:13:24] Product found
+[2024-07-21 17:13:27] Mouse hover on 'Xiaomi Monitor' product.
+[2024-07-21 17:13:37] An error occurred: Message: element click intercepted: Element <button type="button" class="add btn _prim -pea _md" data-submit="" name="action" value="in">...</button> is not clickable at point (992, 680). Other element would receive the click: <div class="ctt-w">...</div>
+  (Session info: MicrosoftEdge=126.0.2592.113)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7A7288132+13538]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7A7211DE9+595465]
+	(No symbol) [0x00007FF7A702E6CF]
+	(No symbol) [0x00007FF7A7078E9E]
+	(No symbol) [0x00007FF7A7077101]
+	(No symbol) [0x00007FF7A7074E10]
+	(No symbol) [0x00007FF7A7073E26]
+	(No symbol) [0x00007FF7A7068711]
+	(No symbol) [0x00007FF7A7091FFA]
+	(No symbol) [0x00007FF7A7068147]
+	(No symbol) [0x00007FF7A706800D]
+	(No symbol) [0x00007FF7A70922E0]
+	(No symbol) [0x00007FF7A7068147]
+	(No symbol) [0x00007FF7A70AB1EE]
+	(No symbol) [0x00007FF7A7091C63]
+	(No symbol) [0x00007FF7A706766E]
+	(No symbol) [0x00007FF7A706683C]
+	(No symbol) [0x00007FF7A7067221]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7A74496D4+1099860]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7A718D8FC+53532]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7A7180E25+1605]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7A7448665+1095653]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7A721C961+27777]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7A7216CE4+4100]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7A7216E1B+4411]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7A720CFA0+575424]
+	BaseThreadInitThunk [0x00007FFBC8037374+20]
+	RtlUserThreadStart [0x00007FFBC817CC91+33]
+
+[2024-07-21 17:14:07] Waiting for 10 seconds before closing the browser.
+[2024-07-21 17:14:09] Browser session ended.
+[2024-07-21 17:15:41] Browser session started.
+[2024-07-21 17:15:41] Browser window maximized.
+[2024-07-21 17:15:42] Navigated to Jumia homepage.
+[2024-07-21 17:15:46] Closed pop-up window.
+[2024-07-21 17:15:51] Mouse hover on 'Informatique' category.
+[2024-07-21 17:15:54] Click on 'Pc Gamer et composants' products
+[2024-07-21 17:15:54] Successfully navigated to 'Pc Gamer et composants' sub-category page.
+[2024-07-21 17:15:55] Scroll down the webpage
+[2024-07-21 17:15:55] Product found
+[2024-07-21 17:16:00] Mouse hover on 'Xiaomi Monitor' product.
+[2024-07-21 17:16:08] An error occurred: Message: element click intercepted: Element <button type="button" class="add btn _prim -pea _md" data-submit="" name="action" value="in">...</button> is not clickable at point (992, 680). Other element would receive the click: <div class="ctt-w">...</div>
+  (Session info: MicrosoftEdge=126.0.2592.113)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7A7288132+13538]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7A7211DE9+595465]
+	(No symbol) [0x00007FF7A702E6CF]
+	(No symbol) [0x00007FF7A7078E9E]
+	(No symbol) [0x00007FF7A7077101]
+	(No symbol) [0x00007FF7A7074E10]
+	(No symbol) [0x00007FF7A7073E26]
+	(No symbol) [0x00007FF7A7068711]
+	(No symbol) [0x00007FF7A7091FFA]
+	(No symbol) [0x00007FF7A7068147]
+	(No symbol) [0x00007FF7A706800D]
+	(No symbol) [0x00007FF7A70922E0]
+	(No symbol) [0x00007FF7A7068147]
+	(No symbol) [0x00007FF7A70AB1EE]
+	(No symbol) [0x00007FF7A7091C63]
+	(No symbol) [0x00007FF7A706766E]
+	(No symbol) [0x00007FF7A706683C]
+	(No symbol) [0x00007FF7A7067221]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7A74496D4+1099860]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7A718D8FC+53532]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7A7180E25+1605]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7A7448665+1095653]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7A721C961+27777]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7A7216CE4+4100]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7A7216E1B+4411]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7A720CFA0+575424]
+	BaseThreadInitThunk [0x00007FFBC8037374+20]
+	RtlUserThreadStart [0x00007FFBC817CC91+33]
+
+[2024-07-21 17:16:38] Waiting for 10 seconds before closing the browser.
+[2024-07-21 17:16:41] Browser session ended.
+[2024-07-21 17:30:30] Browser session started.
+[2024-07-21 17:30:30] Browser window maximized.
+[2024-07-21 17:30:31] Navigated to Jumia homepage.
+[2024-07-21 17:30:35] Closed pop-up window.
+[2024-07-21 17:30:38] Mouse hover on 'Informatique' category.
+[2024-07-21 17:30:42] Click on 'Pc Gamer et composants' products
+[2024-07-21 17:30:42] Successfully navigated to 'Pc Gamer et composants' sub-category page.
+[2024-07-21 17:30:43] Scroll down the webpage
+[2024-07-21 17:30:43] Product found
+[2024-07-21 17:30:45] Mouse hover on 'Xiaomi Monitor' product.
+[2024-07-21 17:30:53] An error occurred: Message: element click intercepted: Element <button type="button" class="add btn _prim -pea _md" data-submit="" name="action" value="in">...</button> is not clickable at point (993, 678). Other element would receive the click: <div class="ctt-w">...</div>
+  (Session info: MicrosoftEdge=126.0.2592.113)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7A7288132+13538]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7A7211DE9+595465]
+	(No symbol) [0x00007FF7A702E6CF]
+	(No symbol) [0x00007FF7A7078E9E]
+	(No symbol) [0x00007FF7A7077101]
+	(No symbol) [0x00007FF7A7074E10]
+	(No symbol) [0x00007FF7A7073E26]
+	(No symbol) [0x00007FF7A7068711]
+	(No symbol) [0x00007FF7A7091FFA]
+	(No symbol) [0x00007FF7A7068147]
+	(No symbol) [0x00007FF7A706800D]
+	(No symbol) [0x00007FF7A70922E0]
+	(No symbol) [0x00007FF7A7068147]
+	(No symbol) [0x00007FF7A70AB1EE]
+	(No symbol) [0x00007FF7A7091C63]
+	(No symbol) [0x00007FF7A706766E]
+	(No symbol) [0x00007FF7A706683C]
+	(No symbol) [0x00007FF7A7067221]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7A74496D4+1099860]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7A718D8FC+53532]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7A7180E25+1605]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7A7448665+1095653]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7A721C961+27777]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7A7216CE4+4100]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7A7216E1B+4411]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7A720CFA0+575424]
+	BaseThreadInitThunk [0x00007FFBC8037374+20]
+	RtlUserThreadStart [0x00007FFBC817CC91+33]
+
+[2024-07-21 17:31:14] Browser session started.
+[2024-07-21 17:31:14] Browser window maximized.
+[2024-07-21 17:31:15] Navigated to Jumia homepage.
+[2024-07-21 17:31:19] Closed pop-up window.
+[2024-07-21 17:31:23] Mouse hover on 'Informatique' category.
+[2024-07-21 17:31:29] Click on 'Pc Gamer et composants' products
+[2024-07-21 17:31:29] Successfully navigated to 'Pc Gamer et composants' sub-category page.
+[2024-07-21 17:31:30] Scroll down the webpage
+[2024-07-21 17:31:30] Product found
+[2024-07-21 17:31:33] Mouse hover on 'Xiaomi Monitor' product.
+[2024-07-21 17:31:42] Boutton 'Ajouter au panier' Clicked
+[2024-07-21 17:32:12] Waiting for 10 seconds before closing the browser.
+[2024-07-21 17:32:14] Browser session ended.
+[2024-07-21 17:37:28] Browser session started.
+[2024-07-21 17:37:28] Browser window maximized.
+[2024-07-21 17:37:29] Navigated to Jumia homepage.
+[2024-07-21 17:37:33] Closed pop-up window.
+[2024-07-21 17:37:33] An error occurred: 'str' object is not callable
+[2024-07-21 17:38:06] Browser session started.
+[2024-07-21 17:38:07] Browser window maximized.
+[2024-07-21 17:38:08] Navigated to Jumia homepage.
+[2024-07-21 17:38:11] Closed pop-up window.
+[2024-07-21 17:38:11] An error occurred: 'str' object is not callable
+[2024-07-21 17:38:41] Waiting for 10 seconds before closing the browser.
+[2024-07-21 17:38:43] Browser session ended.
+[2024-07-21 17:39:10] Browser session started.
+[2024-07-21 17:39:10] Browser window maximized.
+[2024-07-21 17:39:11] Navigated to Jumia homepage.
+[2024-07-21 17:39:14] Closed pop-up window.
+[2024-07-21 17:39:14] An error occurred: 'str' object is not callable
+[2024-07-21 17:39:44] Waiting for 10 seconds before closing the browser.
+[2024-07-21 17:39:46] Browser session ended.
+[2024-07-21 17:40:54] Browser session started.
+[2024-07-21 17:40:54] Browser window maximized.
+[2024-07-21 17:40:56] Navigated to Jumia homepage.
+[2024-07-21 17:41:00] Closed pop-up window.
+[2024-07-21 17:41:00] An error occurred: 'str' object is not callable
+[2024-07-21 17:41:30] Waiting for 10 seconds before closing the browser.
+[2024-07-21 17:41:32] Browser session ended.
+[2024-07-21 17:43:11] Browser session started.
+[2024-07-21 17:43:11] Browser window maximized.
+[2024-07-21 17:43:12] Navigated to Jumia homepage.
+[2024-07-21 17:43:17] Closed pop-up window.
+[2024-07-21 17:43:17] An error occurred: 'str' object is not callable
+[2024-07-21 17:44:30] Browser session started.
+[2024-07-21 17:44:30] Browser window maximized.
+[2024-07-21 17:44:31] Navigated to Jumia homepage.
+[2024-07-21 17:44:34] Closed pop-up window.
+[2024-07-21 17:44:34] An error occurred: 'str' object is not callable
+[2024-07-21 17:44:54] Browser session started.
+[2024-07-21 17:44:54] Browser window maximized.
+[2024-07-21 17:44:55] Navigated to Jumia homepage.
+[2024-07-21 17:44:58] Closed pop-up window.
+[2024-07-21 17:44:58] An error occurred: 'str' object is not callable
+[2024-07-21 17:46:11] Browser session started.
+[2024-07-21 17:46:11] Browser window maximized.
+[2024-07-21 17:46:12] Navigated to Jumia homepage.
+[2024-07-21 17:46:17] Closed pop-up window.
+[2024-07-21 17:46:17] An error occurred: 'str' object is not callable
+[2024-07-21 17:46:47] Waiting for 10 seconds before closing the browser.
+[2024-07-21 17:46:49] Browser session ended.
+[2024-07-21 17:51:50] Browser session started.
+[2024-07-21 17:51:50] Browser window maximized.
+[2024-07-21 17:51:51] Navigated to Jumia homepage.
+[2024-07-21 17:51:54] Closed pop-up window.
+[2024-07-21 17:51:54] An error occurred: 'str' object is not callable
+[2024-07-21 17:54:44] Browser session started.
+[2024-07-21 17:54:44] Browser window maximized.
+[2024-07-21 17:54:45] Navigated to Jumia homepage.
+[2024-07-21 17:54:50] Closed pop-up window.
+[2024-07-21 17:54:50] An error occurred: 'str' object is not callable
+[2024-07-21 17:56:51] Browser session started.
+[2024-07-21 17:56:51] Browser window maximized.
+[2024-07-21 17:56:52] Navigated to Jumia homepage.
+[2024-07-21 17:56:57] Closed pop-up window.
+[2024-07-21 17:56:57] An error occurred: 'str' object is not callable
+[2024-07-21 17:57:27] Waiting for 10 seconds before closing the browser.
+[2024-07-21 17:57:29] Browser session ended.
+[2024-07-21 17:59:08] Browser session started.
+[2024-07-21 17:59:08] Browser window maximized.
+[2024-07-21 17:59:09] Navigated to Jumia homepage.
+[2024-07-21 17:59:12] Closed pop-up window.
+[2024-07-21 17:59:12] An error occurred: 'str' object is not callable
+[2024-07-21 17:59:42] Waiting for 10 seconds before closing the browser.
+[2024-07-21 17:59:44] Browser session ended.
+[2024-07-21 17:59:50] Browser session started.
+[2024-07-21 17:59:50] Browser window maximized.
+[2024-07-21 17:59:51] Navigated to Jumia homepage.
+[2024-07-21 17:59:54] Closed pop-up window.
+[2024-07-21 17:59:54] An error occurred: 'str' object is not callable
+[2024-07-21 18:00:24] Waiting for 10 seconds before closing the browser.
+[2024-07-21 18:00:27] Browser session ended.
+[2024-07-21 21:23:18] Browser session started.
+[2024-07-21 21:23:18] Browser window maximized.
+[2024-07-21 21:23:19] Navigated to Jumia homepage.
+[2024-07-21 21:23:23] Closed pop-up window.
+[2024-07-21 21:23:23] Closed banner.
+[2024-07-21 21:23:28] Mouse hover on 'Informatique' category.
+[2024-07-21 21:23:35] Click on 'Pc Gamer et composants' products
+[2024-07-21 21:23:35] Successfully navigated to 'Pc Gamer et composants' sub-category page.
+[2024-07-21 21:23:36] Scroll down the webpage
+[2024-07-21 21:23:36] Product found
+[2024-07-21 21:23:38] Mouse hover on 'Xiaomi Monitor' product.
+[2024-07-21 21:23:45] Boutton 'Ajouter au panier' Clicked
+[2024-07-21 21:24:06] Browser session started.
+[2024-07-21 21:24:06] Browser window maximized.
+[2024-07-21 21:24:07] Navigated to Jumia homepage.
+[2024-07-21 21:24:12] Closed pop-up window.
+[2024-07-21 21:24:12] Closed banner.
+[2024-07-21 21:24:15] Mouse hover on 'Informatique' category.
+[2024-07-21 21:24:20] Click on 'Pc Gamer et composants' products
+[2024-07-21 21:24:20] Successfully navigated to 'Pc Gamer et composants' sub-category page.
+[2024-07-21 21:24:21] Scroll down the webpage
+[2024-07-21 21:24:21] Product found
+[2024-07-21 21:24:26] Mouse hover on 'Xiaomi Monitor' product.
+[2024-07-21 21:24:38] Browser session started.
+[2024-07-21 21:24:38] Browser window maximized.
+[2024-07-21 21:24:39] Navigated to Jumia homepage.
+[2024-07-21 21:24:44] Closed pop-up window.
+[2024-07-21 21:24:48] Closed banner.
+[2024-07-21 21:24:51] Mouse hover on 'Informatique' category.
+[2024-07-21 21:24:57] Click on 'Pc Gamer et composants' products
+[2024-07-21 21:24:57] Successfully navigated to 'Pc Gamer et composants' sub-category page.
+[2024-07-21 21:24:58] Scroll down the webpage
+[2024-07-21 21:24:58] Product found
+[2024-07-21 21:25:01] Mouse hover on 'Xiaomi Monitor' product.
+[2024-07-21 21:25:08] Boutton 'Ajouter au panier' Clicked
+[2024-07-21 21:25:38] Waiting for 10 seconds before closing the browser.
+[2024-07-21 21:25:40] Browser session ended.
+[2024-07-21 21:31:38] Browser session started.
+[2024-07-21 21:31:38] Browser window maximized.
+[2024-07-21 21:31:39] Navigated to Jumia homepage.
+[2024-07-21 21:31:42] Closed pop-up window.
+[2024-07-21 21:31:45] Closed banner.
+[2024-07-21 21:31:48] Mouse hover on 'Informatique' category.
+[2024-07-21 21:31:52] Click on 'Pc Gamer et composants' products
+[2024-07-21 21:31:52] Successfully navigated to 'Pc Gamer et composants' sub-category page.
+[2024-07-21 21:31:53] Scroll down the webpage
+[2024-07-21 21:31:53] Product found
+[2024-07-21 21:31:57] Mouse hover on 'Xiaomi Monitor' product.
+[2024-07-21 21:32:04] Boutton 'Ajouter au panier' Clicked
+[2024-07-21 21:32:04] Clicking the "Panier" button
+[2024-07-21 21:32:04] Successfully clicked the 'Panier' button
+[2024-07-21 21:32:34] Waiting for 10 seconds before closing the browser.
+[2024-07-21 21:32:37] Browser session ended.
+[2024-07-21 21:32:37] OK
+[2024-07-21 21:32:57] Browser session started.
+[2024-07-21 21:32:57] Browser window maximized.
+[2024-07-21 21:32:58] Navigated to Jumia homepage.
+[2024-07-21 21:33:03] Closed pop-up window.
+[2024-07-21 21:33:07] Closed banner.
+[2024-07-21 21:33:10] Mouse hover on 'Informatique' category.
+[2024-07-21 21:33:14] Click on 'Pc Gamer et composants' products
+[2024-07-21 21:33:14] Successfully navigated to 'Pc Gamer et composants' sub-category page.
+[2024-07-21 21:33:15] Scroll down the webpage
+[2024-07-21 21:33:15] Product found
+[2024-07-21 21:33:17] Mouse hover on 'Xiaomi Monitor' product.
+[2024-07-21 21:33:25] Boutton 'Ajouter au panier' Clicked
+[2024-07-21 21:33:29] Clicking the "Panier" button
+[2024-07-21 21:33:31] Successfully clicked the 'Panier' button
+[2024-07-21 21:34:01] Waiting for 10 seconds before closing the browser.
+[2024-07-21 21:34:03] Browser session ended.
+
+[2024-07-21 22:07:35] Browser session started.
+[2024-07-21 22:07:35] Browser window maximized.
+[2024-07-21 22:07:36] Navigated to Jumia homepage.
+[2024-07-21 22:07:39] Closed pop-up window.
+[2024-07-21 22:07:43] Closed banner.
+[2024-07-21 22:07:45] Mouse hover on 'Informatique' category.
+[2024-07-21 22:07:50] Click on 'Pc Gamer et composants' products
+[2024-07-21 22:07:50] Successfully navigated to 'Pc Gamer et composants' sub-category page.
+[2024-07-21 22:07:51] Scroll down the webpage
+[2024-07-21 22:07:51] Product found
+[2024-07-21 22:07:55] Mouse hover on 'Xiaomi Monitor' product.
+[2024-07-21 22:08:02] Boutton 'Ajouter au panier' Clicked
+[2024-07-21 22:08:06] Clicking the "Panier" button on the navbar
+[2024-07-21 22:08:07] An error occurred: Message: element click intercepted: Element <a class="-df -i-ctr -gy9 -hov-or5 -phs -fs16" href="/cart/">...</a> is not clickable at point (1281, 36). Other element would receive the click: <button class="close">...</button>
+  (Session info: MicrosoftEdge=126.0.2592.113)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7A7288132+13538]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7A7211DE9+595465]
+	(No symbol) [0x00007FF7A702E6CF]
+	(No symbol) [0x00007FF7A7078E9E]
+	(No symbol) [0x00007FF7A7077101]
+	(No symbol) [0x00007FF7A7074E10]
+	(No symbol) [0x00007FF7A7073E26]
+	(No symbol) [0x00007FF7A7068711]
+	(No symbol) [0x00007FF7A7091FFA]
+	(No symbol) [0x00007FF7A7068147]
+	(No symbol) [0x00007FF7A706800D]
+	(No symbol) [0x00007FF7A70922E0]
+	(No symbol) [0x00007FF7A7068147]
+	(No symbol) [0x00007FF7A70AB1EE]
+	(No symbol) [0x00007FF7A7091C63]
+	(No symbol) [0x00007FF7A706766E]
+	(No symbol) [0x00007FF7A706683C]
+	(No symbol) [0x00007FF7A7067221]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7A74496D4+1099860]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7A718D8FC+53532]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7A7180E25+1605]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7A7448665+1095653]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7A721C961+27777]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7A7216CE4+4100]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7A7216E1B+4411]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7A720CFA0+575424]
+	BaseThreadInitThunk [0x00007FFBC8037374+20]
+	RtlUserThreadStart [0x00007FFBC817CC91+33]
+
+[2024-07-21 22:08:37] Waiting for 10 seconds before closing the browser.
+[2024-07-21 22:08:39] Browser session ended.
+[2024-07-21 22:10:09] Browser session started.
+[2024-07-21 22:10:10] Browser window maximized.
+[2024-07-21 22:10:11] Navigated to Jumia homepage.
+[2024-07-21 22:10:16] Closed pop-up window.
+[2024-07-21 22:10:20] Closed banner.
+[2024-07-21 22:10:24] Mouse hover on 'Informatique' category.
+[2024-07-21 22:10:29] Click on 'Pc Gamer et composants' products
+[2024-07-21 22:10:30] Successfully navigated to 'Pc Gamer et composants' sub-category page.
+[2024-07-21 22:10:31] Scroll down the webpage
+[2024-07-21 22:10:31] Product found
+[2024-07-21 22:10:33] Mouse hover on 'Xiaomi Monitor' product.
+[2024-07-21 22:10:42] Boutton 'Ajouter au panier' Clicked
+[2024-07-21 22:10:47] Clicking the "Panier" button on the navbar
+[2024-07-21 22:10:48] Successfully clicked the 'Panier' button
+[2024-07-21 22:11:18] Waiting for 10 seconds before closing the browser.
+[2024-07-21 22:11:20] Browser session ended.
+[2024-07-23 09:13:48] Browser session started.
+[2024-07-23 09:13:48] Browser window maximized.
+[2024-07-23 09:13:49] Navigated to Jumia homepage.
+[2024-07-23 09:13:52] Closed pop-up window.
+[2024-07-23 09:13:57] Closed banner.
+[2024-07-23 09:14:02] Mouse hover on 'Informatique' category.
+[2024-07-23 09:14:08] Click on 'Pc Gamer et composants' products
+[2024-07-23 09:14:08] Successfully navigated to 'Pc Gamer et composants' sub-category page.
+[2024-07-23 09:14:09] Scroll down the webpage
+[2024-07-23 09:14:09] Product found
+[2024-07-23 09:14:12] Mouse hover on 'Xiaomi Monitor' product.
+[2024-07-23 09:14:18] Boutton 'Ajouter au panier' Clicked
+[2024-07-23 09:14:23] Clicking the "Panier" button on the navbar
+[2024-07-23 09:14:24] Successfully clicked the 'Panier' button
+[2024-07-23 09:14:54] Waiting for 10 seconds before closing the browser.
+[2024-07-23 09:14:56] Browser session ended.
+[2024-07-23 09:18:29] Browser session started.
+[2024-07-23 09:18:29] Browser window maximized.
+[2024-07-23 09:18:33] Navigated to Jumia homepage.
+[2024-07-23 09:18:38] Closed pop-up window.
+[2024-07-23 09:18:43] Mouse hover on 'Informatique' category.
+[2024-07-23 09:18:49] Click on 'Pc Gamer et composants' products
+[2024-07-23 09:18:49] Successfully navigated to 'Pc Gamer et composants' sub-category page.
+[2024-07-23 09:18:50] Scroll down the webpage
+[2024-07-23 09:18:50] Product found
+[2024-07-23 09:18:54] Mouse hover on 'Xiaomi Monitor' product.
+[2024-07-23 09:19:03] An error occurred: Message: element click intercepted: Element <button type="button" class="add btn _prim -pea _md" data-submit="" name="action" value="in">...</button> is not clickable at point (776, 679). Other element would receive the click: <div class="ctt-w">...</div>
+  (Session info: MicrosoftEdge=126.0.2592.113)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6FF628132+13538]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF6FF5B1DE9+595465]
+	(No symbol) [0x00007FF6FF3CE6CF]
+	(No symbol) [0x00007FF6FF418E9E]
+	(No symbol) [0x00007FF6FF417101]
+	(No symbol) [0x00007FF6FF414E10]
+	(No symbol) [0x00007FF6FF413E26]
+	(No symbol) [0x00007FF6FF408711]
+	(No symbol) [0x00007FF6FF431FFA]
+	(No symbol) [0x00007FF6FF408147]
+	(No symbol) [0x00007FF6FF40800D]
+	(No symbol) [0x00007FF6FF4322E0]
+	(No symbol) [0x00007FF6FF408147]
+	(No symbol) [0x00007FF6FF44B1EE]
+	(No symbol) [0x00007FF6FF431C63]
+	(No symbol) [0x00007FF6FF40766E]
+	(No symbol) [0x00007FF6FF40683C]
+	(No symbol) [0x00007FF6FF407221]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6FF7E96D4+1099860]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF6FF52D8FC+53532]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF6FF520E25+1605]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6FF7E8665+1095653]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6FF5BC961+27777]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6FF5B6CE4+4100]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6FF5B6E1B+4411]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF6FF5ACFA0+575424]
+	BaseThreadInitThunk [0x00007FFBC8037374+20]
+	RtlUserThreadStart [0x00007FFBC817CC91+33]
+
+[2024-07-23 09:19:33] Waiting for 10 seconds before closing the browser.
+[2024-07-23 09:19:35] Browser session ended.

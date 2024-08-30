@@ -1,0 +1,7 @@
+[2024-07-10 16:24:13] Browser session started.
+[2024-07-10 16:24:13] Browser window maximized.
+[2024-07-10 16:24:16] Navigated to Jumia 'Informatique' category page via a direct link
+[2024-07-10 16:24:16] Successfully navigated to 'Informatique' category page via direct link.
+[2024-07-10 16:24:19] Closed pop-up window.
+[2024-07-10 16:24:29] Waiting for 10 seconds before closing the browser.
+[2024-07-10 16:24:31] Browser session ended.
